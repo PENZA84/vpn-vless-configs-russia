@@ -1,0 +1,5 @@
+trojan://OdgHycGphesfLmPMYolUF@172.238.229.254:14051?sni=api.avito.ru&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%20%40v2ray_configs_pool%20%F0%9F%93%A1%20%F0%9F%87%AE%F0%9F%87%B9IT_2%20%F0%9F%A7%AD%204.2MB%2Fs`
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#IT🇮🇹
+trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#IT🇮🇹
+trojan://cc8da52f7c2b4a2a9bb886ec595fe285@62.113.114.116:9443?fp=random&pbk=4-0w7mbZdx1ahuIMOV_VMXlkWdc2daX4oOSlb9P992A&security=reality&sid=aabbccdd&sni=ya.ru&type=tcp#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-22045
+trojan://r1EkRzwp4P@93.177.116.27:34190?type=tcp&security=reality&pbk=zHMhSWSTQOzdltHpDUJfuXhtZuaojDcdenBjfmYU-1Q&fp=chrome&sni=www.ya.ru&sid=47&spx=%2F#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-6964
