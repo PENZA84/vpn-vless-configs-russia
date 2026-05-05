@@ -1,3 +1,5 @@
+vless://vpnlime@Foxnt-joinbedde.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@vpnlime,@vpnlime&sni=vvv.tm-foxnt-joinbede.fun#🇩🇪@FOXNT2
+vless://vpnlime@Foxnt-joinbede.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@vpnlime,@vpnlime&sni=vvv.tm-foxnt-joinbede.fun#🇩🇪@FOXNT3
 vless://vpnlime@Foxnt-joinbeede.ddns.net:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@vpnlime,@vpnlime&sni=vvv.tm-foxnt-joinbede.fun#🇩🇪@FOXNT1
 vless://vpnlime@de.Foxnt-telegram-Foxnt.shop:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@vpnlime,@vpnlime&sni=vvv.tm-foxnt-joinbede.fun#🇩🇪@FOXNT4
 vless://vpnlime@vv.foxnt-telegram-foxnt.shop:888?type=tcp&path=/&host=bmw.com&headerType=http&security=none#🇩🇪@vpnlime
