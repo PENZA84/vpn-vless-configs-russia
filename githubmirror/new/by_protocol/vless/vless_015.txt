@@ -356,7 +356,6 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&en
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#Join+Telegram:@Farah_VPN
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AC%F0%9F%87%A7-London-934ms-DataCamp%20Limited
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#v2ray_dalghak
-vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#🇬🇧[www.v2nodes.com] V2Ray Vless-GB-13576805
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=raw&security=tls&sni=uk1.fromblancwithlove.com#0045 | 🇬🇧 United Kingdom | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20231347

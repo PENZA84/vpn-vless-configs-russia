@@ -421,6 +421,7 @@ vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?type=
 vless://de765eb2-92d9-4730-885a-7f63985cffbe@simonil.zarghamportal.ir:8080?type=httpupgrade&host=shole.zarghamportal.ir&path=/#🇷🇺2-Join
 vless://de76b1cb-a2a0-43c0-8b8b-b3be2c0af830@37.27.220.218:42671?type=ws&encryption=none&path=/NT_Safe&host=&security=none#🇫🇮-@nt_safe
 vless://de83f68d-1634-419d-97cd-2b1cbe9d88a3@217.16.16.51:5443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=AmpIUm6a_O02V4CqMv1UR1MOvPGrJTKwVJp_lEdNmyY&security=reality&sid=026b1383f6e66620&sni=max.ru&type=tcp#№94 🇩🇪 Германия, Max.ru
+vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?type=tcp&security=reality&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&sid=90&sni=www.icloud.com#2229 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://de86d13b-b419-4587-b643-c41ba6ea51ed@193.25.216.201:36019?type=tcp&security=reality&fp=chrome&pbk=Rkx8a8DBAW6H2H2XXN2JFdBYe24VcJPpr51ehcvMV3w&sid=90&sni=www.icloud.com#2478 | 🇸🇪 Sweden | VLESS | 📺 YT | TG: @YoutubeUnBlockRu
 vless://deac86ca-5d50-4c27-9989-cc7cddac248d@45.67.32.147:14875?security=reality&flow=xtls-rprx-vision&sni=yahoo.com&type=tcp&fp=random&pbk=2mte9DEeo0OwNppy36bIfMqAXL4yLiFbhDqOGXu8XVI&sid=e34371db#🔒 VL-TCP-RLT 🇷🇺 RU-45.67.32.147:14875
 vless://deac8b20-137f-4bda-838b-e726548439bb@www.canva.com:2096?path=/@CUSTOMVPNSERVER&security=tls&encryption=none&host=mci-tci-germany.netguardians.xyz&type=ws&sni=mci-tci-germany.netguardians.xyz#رایگان | VLESS | @CUSTOMVPNSERVER | CA🇨🇦 | 0️⃣4️⃣
