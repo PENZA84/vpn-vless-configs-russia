@@ -1,3 +1,5 @@
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.11.214:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.12.251:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12757572
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.13.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21195075
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.22.240:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN16700501
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.28.24:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13081016
@@ -56,7 +58,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.176.67:22224?type=ws&security=tl
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.180.25:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10627724
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.183.143:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3880702
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.187.181:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13084100
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.190.65:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.195.183:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN2556352
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.201.84:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5752200
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.47.206.247:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13792818
@@ -278,13 +279,13 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.181.90.241:22224?type=ws&security=t
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.1.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21164207
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.112.185:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN20815952
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.15.247:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN16945403
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.185.223:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.232.106:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN20716080
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.39.77:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN16664576
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.45.246:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15447107
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.46.78:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN20141395
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.57.211:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN16258736
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.0.115:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12903001
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.151.28:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.19.242:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://055ee274-da3d-4bbd-acf1-a46f1df05c52@snapp.ir:80?path=%2F&security=&encryption=none&host=n1.abantrust.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B721279%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 ss://055ee274-da3d-4bbd-acf1-a46f1df05c52@snapp.ir:80?path=%2F&security=&encryption=none&host=n1.abantrust.ir&type=ws#IR🇮🇷
@@ -293,7 +294,6 @@ ss://0591dfc2-3823-4fd9-8353-39935995c7a4@cf-yx-us.sslw2.top:443?path=%2Fvless_w
 ss://05c5475e-c857-05b0-5e1f-3e7214ddb346@23.81.34.114:1003?security=reality&encryption=none&pbk=Pvpq99YvDchvhkNcu9WKBQczRRFn-Z4EoGLPKv7LkUk&host=mci.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=27e6b66aa77662fb#AutoAiVPN16490637
 ss://05c5475e-c857-05b0-5e1f-3e7214ddb346@23.81.34.114:1004?security=reality&encryption=none&pbk=Pvpq99YvDchvhkNcu9WKBQczRRFn-Z4EoGLPKv7LkUk&host=mci.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=27e6b66aa77662fb#AutoAiVPN16490645
 ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.ru&amp;sid=abc123#%40Vpn_Tehran%20%E2%9D%A4%EF%B8%8F%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
-ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&amp;encryption=none&amp;pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&amp;host=TELEGRAM&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=yandex.ru&amp;sid=abc123#%40Vpn_Tehran%20%F0%9F%A9%B5%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85
 ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#%F0%9F%87%AE%F0%9F%87%B7%20IR%2057%20%40Outline_Vpn
 ss://05dc09d5-5c56-454b-a34e-6ef743d91e1a@netherland.boot-lee.ru:8443?security=reality&encryption=none&pbk=3JGwSDrfkiCPdU3rvQP5m0z4Ag_UB_2w8Qq3VMXmo28&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=yandex.ru&sid=abc123#REALITY|NL🇳🇱
 ss://06199465-86ab-47ef-bf30-2b4daaf4f903@pg.nexorainnovationhub.ir:80?path=%2F&security=none&encryption=none&host=germany.lezzaluxa.ir&type=ws#IR🇮🇷
