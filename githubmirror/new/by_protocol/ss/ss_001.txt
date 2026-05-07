@@ -31,7 +31,6 @@ ss://03dd6d92-054f-409c-88c0-fad544234d6e@FRANCE.TORPROSPEED.IR:250?security=rea
 ss://0420bd64-ee35-481b-bf7d-ca404d639037@91.107.181.159:7443?security=none&encryption=none&host=Join---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore%0AJoin---nitruStore---Join---nitruStore&headerType=none&type=tcp#AutoAiVPN12977104
 ss://0420bd64-ee35-481b-bf7d-ca404d639037@91.107.181.159:8443?security=none&encryption=none&host=Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore&headerType=none&type=tcp#AutoAiVPN12925805
 ss://0480d8ec-5151-4ae6-a58a-5be806b6128b@GozargahVPN-GozargahVPN-GozargahVPN.mymtn.sbs:443?type=tcp&amp;path=/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN&amp;headerType=http&amp;security=none#%F0%9F%87%A9%F0%9F%87%AA%20%40GozargahVPN%20-1
-ss://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&amp;host=netherlands.vipserver14.workers.dev&amp;security=none&amp;type=ws#%F0%9F%AB%9F22@oneclickvpnkeys
 ss://04d533ee-51ba-47cc-a703-6336470898ad@104.21.69.22:443?security=tls&sni=mhsang2c3.afsharidempire.uk&type=ws&host=mhsang2c3.afsharidempire.uk&path=/8Ku2BGY685PUNtppXQIC9t&fp=chrome&alpn=http/1.1#AutoAiVPN20961775
 ss://04ec7bda-de0b-45a2-ac31-7b83963e5768@185.143.234.122:80?path=%2F&security=none&encryption=none&host=finland.lezzaluxa.ir&type=ws#🆔movie10_oficial%20🔓%20VL-WS-N/A%20🇮🇷%20IR%20132ms
 ss://05020a61-3c0c-4ead-b256-7851ff905a75@sweeT-coMBInATIOn.SeOtooLsFORyOU.co.Uk:80?path=%2F&security=&encryption=none&type=ws#AutoAiVPN12576954
@@ -249,7 +248,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.28.15:22224?type=ws&security=tls
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.29.241:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15016237
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.29.54:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN11893302
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.30.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12050449
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.30.161:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.32.206:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14002832
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.41.40:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5887252
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.39.42.248:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN2690918
@@ -358,6 +356,7 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.29.207:22224?type=ws&amp;securi
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.3.139:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21179325
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.6.12:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14656879
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.8.186:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15395589
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.87.132:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.9.181:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15342254
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.9.226:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.224.94.238:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
@@ -498,3 +497,4 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.74.243:22224?type=ws&security=t
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.77.144:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14151967
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.127.188:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13223756
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.140.57:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7292444
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.159.228.109:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5254125
