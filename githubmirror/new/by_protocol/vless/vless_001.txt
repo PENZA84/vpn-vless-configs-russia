@@ -102,7 +102,6 @@ vless://00000000-0000-4000-8000-000000000000@209.38.196.1:486?sni=nisav2de2t0ai8
 vless://00000000-0000-4000-8000-000000000000@45.145.41.222:48491?sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&type=ws&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-15530
 vless://00000000-0000-4000-8000-000000000000@62.60.250.193:33496?sni=rolaqoubhqt.bpd67081tsq.ddns-ip.net&type=ws&host=rolaqoubhqt.bpd67081tsq.ddns-ip.net&path=/@Marisa_kristifp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1214
 vless://00000000-0000-4000-8000-000000000000@83.147.254.4:36089?sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&type=ws&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1213
-vless://00000000-0000-4000-8000-000000000000@89.169.55.120:4443?encryption=none&type=ws&security=tls&path=/@Marisa_kristi&sni=nn9jdg-k7yewrrk.acg.xx.kg#🇩🇪 1 - DE - VLESS/WS/TLS - 4443
 vless://00000000-0000-4000-8000-000000000000@91.186.217.43:35469?sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&type=ws&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1211
 vless://0001691a-e408-461c-9a09-96e46c156bdb@hydrovpnsrv1.craftedrpg.ir:443/?encryption=none&host=telewebion.com&type=tcp&headerType=http#%D8%A2%D9%84%D9%85%D8%A7%D9%86%20%F0%9F%87%A9%F0%9F%87%AA%20%40V2xay
 vless://00134d22-e7bc-4690-860a-05d2be0f6f06@91.99.91.136:443/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40manstervpn%20%5B65%5D
@@ -204,7 +203,6 @@ vless://015e00a0-05c0-4476-fbed-4d1adc69e054@zula.ir:2095?path=/@XpnTeam/@XpnTea
 vless://015e00a0-05c0-4476-fbed-4d1adc69e054@zula.ir:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#🇩🇪+@mehrosaboran
 vless://0166cc9f-f7d0-4225-8dd8-3f2d512f8824@graygoat.fonixapp.org:2083?security=reality&encryption=none&pbk=Nt8aT_cKoHYHQWkoAjVgQG3SIsU70hd2nMnVq7pTDzw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients2.google.com&sid=95edb96d#🇩🇪@FreakConfig
 vless://017f481c-9450-47ca-9b89-f15ce14add6f@65.21.107.227:443?mode=gun&security=reality&encryption=none&pbk=8Q3nODqTPyoYTjG7OxOu0BwyawF-_N6lHygfIu2QiCA&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=174e30c7#%F0%9F%87%A9%F0%9F%87%AA+%40IBv2ray%F0%9F%87%A9%F0%9F%87%AA
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=&encryption=none&type=ws#@Vip_Security join us - 21
 vless://019931aa-8cba-3a74-6c77-cb288ae52f2a@154.81.141.36:2096?path=/snippets&HongKong@freecodes2/?ed=2560&security=tls&encryption=none&host=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn&type=ws&sni=0000yhuxn8zf1sqvj1qx.x0uck1bfji4.8f25.dbhnjola4.bmj6yq1giy.ujwpeuoqhayd.pci8t1.paxljcy7c.u9v3a.a1s36uciu.2r11kwhbqtj9k5ix.neib.cn#🇩🇪Telegram:@EXPRESSVPN_420
 vless://019aefe0-f33f-7000-be8d-9d35610b8f72@45.84.1.218:34598?security=reality&encryption=none&pbk=SCkzGfrd6KXuBwpE83LXeBZa03n7sC74iGvSUaZ4IBQ&headerType=none&spx=/&type=tcp&flow=xtls-rprx-vision&sni=telegram.org&sid=0b2e5a9db13f684c#RU_287_@Surfboardv2ray
 vless://01a79e57-5051-4b64-9774-8841c25bcecf@172.66.40.99:8080?type=ws&path=/@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420----@EXPRESSVPN_420&host=s6.inFo.laLezaRanegomaNandish.suB420-mohaMad.online.&security=none#🇳🇱
@@ -326,15 +324,9 @@ vless://032863bc-9508-01ff-1735-112282a4da83@ifmbv9bife41.dop100.com:2053?mode=g
 vless://0328e45c-10a5-4bb2-b381-20b2c3470524@160.153.0.131:2053?security=tls&sni=PjYeUnLx69.jHyGyUc05-iNd5848Kk.fUn&type=httpupgrade&host=PjYeUnLx69.jHyGyUc05-iNd5848Kk.fUn&path=%2F&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🇳🇱 NL-160.153.0.131:2053
 vless://0328e45c-10a5-4bb2-b381-20b2c3470524@160.153.0.183:2053?security=tls&sni=PjYeUnLx69.jHyGyUc05-iNd5848Kk.fUn&type=httpupgrade&host=PjYeUnLx69.jHyGyUc05-iNd5848Kk.fUn&path=%2F&fp=chrome&alpn=h2#🔒 VL-HTTPUPGRADE-TLS 🇳🇱 NL-160.153.0.183:2053
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345/?type=tcp&encryption=none#%F0%9F%87%AC%F0%9F%87%A7%40FREE2CONFIG%20
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?encryption=none&security=none&type=tcp&headerType=none#🇬🇧 5 - GB - VLESS - 2345
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?encryption=none&security=none&type=tcp&headerType=none#🇬🇧 6 - GB - VLESS - 2345
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@54.38.214.29:2345?type=tcp&encryption=none#🇬🇧 7 - GB - VLESS - 2345
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?encryption=none&security=none&type=tcp&headerType=none #🇱🇹 9 - LT - VLESS - 2345
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?encryption=none&security=none&type=tcp&headerType=none#🇱🇹 10 - LT - VLESS - 2345
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇬🇧@FreakConfig
 vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=&encryption=none&headerType=none&type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
-vless://0331b690-79fc-49d5-85f0-54faa4eff89f@go.adslimit.info:2345?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#🇱🇹 11 - LT - VLESS - 2345
 vless://0341d8f2-99e0-4f6c-af0a-345ac26815cf@91.99.218.107:51269?encryption=none&type=grpc#🇩🇪 [AS24940] Hetzner Online GmbH #7
 vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55093?security=none&type=tcp&headerType=none&path=&host=#[🇳🇱]
 vless://0354ec40-a5f5-49d7-beb0-4624c923529e@37.202.237.244:55094?security=none&type=tcp&headerType=none&path=&host=#[🇩🇪]
@@ -485,16 +477,24 @@ vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&am
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws # 🔒 [By EbraSha]
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#%3E%3E%40oneclickvpnkeys%3A%3AUS
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20180171
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20820512
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20942286
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#%F0%9F%AB%9F22@oneclickvpnkeys
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#22@oneclickvpnkeys
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#4Mohsen-5208
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#4Sarina-5211
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#@Vip_Security join us - 35
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#CA_68_@Surfboardv2ray
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#Join+Telegram:@Farah_VPN
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-FlowerMound-595ms-Cloudflare%20Inc.
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%BA%F0%9F%87%B8-FlowerMound-612ms-Cloudflare%20Inc.
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#рҹ«ҹ22@oneclickvpnkeys
-vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#🇺🇸 12 - US - VLESS/WS - 80
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#🇺🇸 11 - US - VLESS/WS - 80
 vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#🔥Join+Telegram:@Farah_VPN🟣
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&host=netherlands.vipserver14.workers.dev&security=none&type=ws#🫟22@oneclickvpnkeys
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?encryption=none&type=ws&host=netherlands.vipserver14.workers.dev&path=%2F&security=none#[🇳🇱] [vl-no-ws] [260507-124357.531]
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?security=none&type=ws&path=%2F%F0%9F%94%92%20%5BBy%20EbraSha%5D&host=netherlands.vipserver14.workers.dev&encryption=none#%5BOpenRay%5D%20%F0%9F%87%A8%F0%9F%87%A6%20CA-13908
+vless://04969b01-ac6a-4056-b5cd-852ccf45f100@104.16.63.239:80?type=ws&security=none&encryption=none&host=netherlands.vipserver14.workers.dev&ed=2048&eh=Sec-WebSocket-Protocol#🇺🇸 [AS13335] "Cloudflare #22
+vless://04b8adad-e69e-4260-876f-3b02b9e690af@www.visa.com.sg:2052/?type=ws&encryption=none&flow=&host=tikal89810-wqukko8o-v3.tikal89810.workers.dev&path=🔒
+vless://04ba133d-1f99-4f5c-b942-bed79cddd0a0@146.75.123.82:80/?type=xhttp&encryption=none#%F0%9F%87%A9%F0%9F%87%AA%20DE%20%7C%20%F0%9F%94%93%20VLESS%20%7C%20%40ghalagyann2%20%5B2%5D
+vless://04bd2301-8fea-462f-b74b-e244c514135d@a.ru.maviks.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=maviks.ru&fp=chrome&security=reality&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0#%40Connectbash_404%20%7C%20%DA%A9%D8%A7%D9%86%D9%81%DB%8C%DA%AF%20%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86%20%E2%99%A5%EF%B8%8F
+vless://04bd2301-8fea-462f-b74b-e244c514135d@a.ru.maviks.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒
+vless://04bd2301-8fea-462f-b74b-e244c514135d@a.ru.maviks.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=🔒 [By EbraSha]&fp=chrome&security=reality&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&sid=0f917152a871e9c0 # 🔒 [By EbraSha]
+vless://04bd2301-8fea-462f-b74b-e244c514135d@a.ru.maviks.ru:443?security=reality&encryption=none&pbk=cGzNRbN_zruI3CVTDukB2nOqWWEj7kgkay24f2fdLmQ&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=maviks.ru&sid=0f917152a871e9c0#4Mohsen-5106
