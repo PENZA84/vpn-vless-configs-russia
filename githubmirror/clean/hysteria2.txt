@@ -55,18 +55,19 @@ hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@9edb1f6e-t56dc0-t9lxaa-1glq.la.
 hysteria2://df7bed3c-06eb-11f0-8ebc-f23c93141fad@e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk:1743?insecure=0&sni=e10829f0-t4un40-t9lb2a-1glq.la.shifen.uk#9%7CAll--%40IRAN_V2RAY1%F0%9F%87%BA%F0%9F%87%B8%20%234
 hysteria2://dongtaiwang.com@163.172.113.118:40022/?Telegram=%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad%2C%40GozargahAzad&insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41073?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41211?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41164?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41211?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41283?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41484?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41484?headerType=none&encryption=none&sni=www.microsoft.com&insecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41581?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41590?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41689?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41763?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7FR_3%7C1.5MB%2Fs
-hysteria2://dongtaiwang.com@163.172.113.118:41784?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41763?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41784?insecure=1&sni=www.microsoft.com&mport=41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41802?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@163.172.113.118:41915?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com&mport=41283%2C41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
-hysteria2://dongtaiwang.com@163.172.113.118:41984?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000-42000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41947?insecure=1&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
+hysteria2://dongtaiwang.com@163.172.113.118:41984?insecure=1&sni=www.microsoft.com&mport=41211%2C41283%2C40022%2C41000#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@51.159.111.32:5355?security=tls&amp;insecure=1&amp;sni=www.bing.com#🇫🇷
 hysteria2://dongtaiwang.com@62.210.124.146:22000?sni=www.microsoft.com&insecure=1&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7%20France%2C%20Paris%20%7C%20%F0%9F%8C%90%20%7C%20%5BIPv6%5D%20%7C%20%5BBL%5D
 hysteria2://dongtaiwang.com@89.144.35.25:33550?security=tls&sni=apple.com#🇳🇱 [AS214639] ITM NORD AS #1 (apple.com)
