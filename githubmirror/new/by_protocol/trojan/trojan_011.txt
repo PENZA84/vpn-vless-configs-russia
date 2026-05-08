@@ -1,3 +1,4 @@
+trojan://8r%3C%5B9%27l6hAO%238ZQi@77.221.156.92:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-13943
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.221.157.251:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-14351
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.221.157.251:2083?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-14833
 trojan://8r%3C%5B9%27l6hAO%238ZQi@77.221.157.251:2083?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-13869
@@ -361,9 +362,6 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@89.150.34.41:2053?security=tls&sni=Koma-YT.PAG
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.150.41.86:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-5261
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.150.59.115:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-6022
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.150.59.115:2053?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%B3%F0%9F%87%B1NL-89.150.59.115-0900
-trojan://8r%3C%5B9%27l6hAO%238ZQi@89.150.59.115:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-4849
-trojan://8r%3C%5B9%27l6hAO%238ZQi@89.150.59.115:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-5824
-trojan://8r%3C%5B9%27l6hAO%238ZQi@89.150.59.115:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%B3%F0%9F%87%B1%20NL-5206
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.167.100.106:443?security=tls&sni=Koma-YT.PAGeS.Dev#%F0%9F%87%AB%F0%9F%87%AEFI-89.167.100.106-1863
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.167.126.60:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-2512
 trojan://8r%3C%5B9%27l6hAO%238ZQi@89.167.126.60:8443?security=tls&sni=Koma-YT.PAGeS.Dev&fp=chrome&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%AB%F0%9F%87%AE%20FI-1930
@@ -498,3 +496,5 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@91.221.191.120:8443?security=tls&sni=Koma-YT.P
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.223.169.88:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1126
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.224.75.127:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1035
 trojan://8r%3C%5B9%27l6hAO%238ZQi@91.224.75.127:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-990
+trojan://8r%3C%5B9%27l6hAO%238ZQi@91.224.75.49:2053?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-1024
+trojan://8r%3C%5B9%27l6hAO%238ZQi@91.224.75.49:2053?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%B5%F0%9F%87%B1%20PL-982

@@ -1,5 +1,3 @@
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
-trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-440ms-Scaleway%20SAS
 trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#🇳🇱[By EbraSha] trojan-NL 🔒
 trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#🇳🇱[openproxylist.com] trojan-NL
 trojan://humanity@v1.dabache.top:443?security=tls&type=ws&sni=www.multiplydose.com&path=/assignment&host=www.multiplydose.com#🇳🇱[www.v2nodes.com] Trojan VPN-NL-13654538
@@ -41,9 +39,10 @@ trojan://ldq6RVIsLJ@uk-04.allhubb.info:8443?security=tls&alpn=h3%2Ch2%2Chttp%2F1
 trojan://lo3TmsNaLWUXpuoE@de-01.fireplay.io:443?security=tls&type=tcp#Relay_%F0%9F%87%AC%F0%9F%87%A7GB-%F0%9F%87%AC%F0%9F%87%A7GB_29
 trojan://lo3TmsNaLWUXpuoE@de-01.fireplay.io:443?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%AC%F0%9F%87%A7GB-%F0%9F%87%AC%F0%9F%87%A7GB_19
 trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&type=ws#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-1377
+trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?host=hl-freedom-2.undef.network&path=/f2fc2a1f&security=tls&type=ws#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Holborn%20%7C%20%5BBL%5D
 trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?sni=HL-FREEDOM-2.UNDEF.NETWORK&host=hl-freedom-2.undef.network&security=tls&type=ws&path=/f2fc2a1f#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-971
-trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?sni=HL-FREEDOM-2.UNDEF.NETWORK&host=hl-freedom-2.undef.network&security=tls&type=ws&path=/f2fc2a1f#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Holborn%20%7C%20%5BBL%5D
 trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?type=ws&path=%2Ff2fc2a1f&security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-1012
+trojan://mJVGfrOkZGnMywJD2uwmuXgOQ@hl-freedom-2.undef.network:443?type=ws&path=%2Ff2fc2a1f&security=tls&sni=HL-FREEDOM-2.UNDEF.NETWORK#%F0%9F%87%AC%F0%9F%87%A7%20United%20Kingdom%2C%20Holborn%20%7C%20%5BBL%5D
 trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=tls&type=tcp&headerType=none#Relay_%F0%9F%87%A8%F0%9F%87%BFCZ-%F0%9F%87%A8%F0%9F%87%BFCZ_16
 trojan://mSzFVhUczD@104.20.5.134:443?allowInsecure=1&alpn=http%2F1.1&host=abest.api-tel.xyz&path=%2F&sni=abest.api-tel.xyz&type=ws#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 trojan://mSzFVhUczD@104.20.5.134:443?path=%2F&security=tls&alpn=http%2F1.1&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=abest.api-tel.xyz#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%A9%F0%9F%87%AA-Nuremberg-650ms-Hetzner%20Online%20GmbH
@@ -498,3 +497,4 @@ trojan://telegram-id-directvpn@15.188.21.75:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@15.188.211.210:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN14828762
 trojan://telegram-id-directvpn@15.188.226.98:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN20350173
 trojan://telegram-id-directvpn@15.188.230.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 113 | Ord-18|t.me/Crackbest2
+trojan://telegram-id-directvpn@15.188.230.176:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 114 | Ord-18|t.me/Crackbest2

@@ -16,6 +16,8 @@ trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaint
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru#4Nika-3932
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru#⚡ b2n.ir/v2ray-configs | 885
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%E7%91%9E%E5%85%B8%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
+trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%E7%BE%8E%E5%9B%BD%28yudou789.top%20%E7%8E%89%E8%B1%86%E5%85%8D%E8%B4%B9%E8%8A%82%E7%82%B9%29
+trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&alpn=h2%2Chttp%2F1.1&type=tcp&headerType=none#4Nika-3933
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&type=tcp&headerType=none#4Nika-3934
 trojan://7aXwJPnpAJ@yespaintstudio.rav-kraski.ru:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&type=tcp&headerType=none#FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
@@ -496,5 +498,3 @@ trojan://8r%3C%5B9%27l6hAO%238ZQi@139.59.183.33:2087?host=Koma-YT.PAGeS.Dev&path
 trojan://8r%3C%5B9%27l6hAO%238ZQi@139.59.183.33:2087?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-1181
 trojan://8r%3C%5B9%27l6hAO%238ZQi@139.59.183.33:2096?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-1358
 trojan://8r%3C%5B9%27l6hAO%238ZQi@139.59.183.33:2096?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-1035
-trojan://8r%3C%5B9%27l6hAO%238ZQi@139.59.183.33:8443?host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3+%40WangCai2&security=tls&sni=Koma-YT.PAGeS.Dev&type=ws#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-1267
-trojan://8r%3C%5B9%27l6hAO%238ZQi@139.59.183.33:8443?security=tls&sni=Koma-YT.PAGeS.Dev&type=ws&host=Koma-YT.PAGeS.Dev&path=/trTelegram%F0%9F%87%A8%F0%9F%87%B3%2B%40WangCai2#%5BOpenRay%5D%20%F0%9F%87%AC%F0%9F%87%A7%20GB-1159
