@@ -153,7 +153,6 @@ ss://38ced162-2eb3-4aee-998f-747961f02c01@helsinki.fonixapp.org:23747?security=r
 ss://393b50c8-c060-465f-b179-b1a824f52a03@nl7.fastlanehosting.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=marktplaats.nl&fp=chrome&security=reality&pbk=pSnQPTV7975vhNh83dHdXEyvCJiiTqYxpDY638xy9SI&sid=9e#AutoAiVPN15979302
 ss://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&amp;encryption=none&amp;security=tls&amp;sni=uk1.fromblancwithlove.com&amp;type=tcp#%F0%9F%8D%9173@oneclickvpnkeys
 ss://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#NL🇳🇱
-ss://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp # 🔒 [By EbraSha]
 ss://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?encryption=none&amp;fp=chrome&amp;security=tls&amp;sni=uk1.fromblancwithlove.com&amp;type=tcp#%F0%9F%8D%91100@oneclickvpnkeys
 ss://39581fd3-5c3c-4f3a-b62a-6653f803dfd6@190.93.247.155:8443?security=tls&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&fp=chrome#AutoAiVPN20832925
 ss://39b37ef4-f81b-468a-b830-e9fa8a4833a7@80.253.251.62:443?security=reality&encryption=none&pbk=UJOoR_vbXzL72OQOad3GD7w7jpzhAPsue3j8aldt-hg&host=Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=3c3d#AutoAiVPN12755460
@@ -498,3 +497,4 @@ ss://6615da82-fec5-45ed-d016-c1963ac07a7c@164.92.206.176:443?type=tcp&amp;encryp
 ss://6615da82-fec5-45ed-d016-c1963ac07a7c@164.92.229.34:443?type=tcp&amp;encryption=none&amp;security=none#Germany%20D30%2020%20dailyv2ry
 ss://6615da82-fec5-45ed-d016-c1963ac07a7c@164.92.249.70:443?type=tcp&amp;encryption=none&amp;security=none#Germany%20D16%2038%20dailyv2ry
 ss://6615da82-fec5-45ed-d016-c1963ac07a7c@64.226.126.121:443?type=tcp&amp;encryption=none&amp;security=none#Germany%20D28%2057%20dailyv2ry
+ss://6615da82-fec5-45ed-d016-c1963ac07a7c@68.183.73.2:443?type=tcp&amp;encryption=none&amp;security=none#Germany%20D17%2087%20dailyv2ry
