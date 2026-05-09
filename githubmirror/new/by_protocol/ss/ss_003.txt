@@ -1,6 +1,6 @@
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.88.6:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN11492035
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.89.204:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5701430
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.94.146:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12703345
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.11.214:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.12.251:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12757572
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.13.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21195075
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.22.240:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN16700501
@@ -482,6 +482,7 @@ ss://1fc%65%61149-96c%61-45f%61-8%65d2-094fd6c927f1@www.speedtest.net:2095?path=
 ss://1fc%65%61149-96c%61-45f%61-8%65d2-094fd6c927f1@zula.ir:2095?path=%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%2F%40%58pn%54%65%61m%3Fed%3D2048%40XpnTeam%3Fed%3D2048%40XpnTeam%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=%61m255.%61m%69n5646.%69%72&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA+%40mehrosaboran
 ss://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&type=ws&sni=om3.omidsuccess.uk#AutoAiVPN12400767
 ss://1ff9dc4a-4853-4790-a81c-13e195c957e8@51.195.119.75:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=ov-germany6.09vpn.com#AutoAiVPN7876629
+ss://2022-blake3-aes-256-gcm:MzQwNWMxZmQ1YTNlNDQyOGIwOTFjYTUyOWMzN2Y1OTY=:OTBkMGZjZDg1Y2Q4NGU1MmFkMTVkOGJlZTgwY2Y1Zjg=@31.130.131.214:30453?#0770 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&amp;encryption=none&amp;pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=d020b2#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 ss://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?path=%2F&security=&encryption=none&type=ws#AutoAiVPN805
 ss://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
@@ -497,4 +498,3 @@ ss://2197f2f3-7634-4609-a525-7361b1d4782d@France.amirconfigpanelllll.com:625?sec
 ss://2197f2f3-7634-4609-a525-7361b1d4782d@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#AutoAiVPN5884499
 ss://219d848d-60f2-4321-8275-72b9b575b37e@104.17.30.230:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN4488516
 ss://219d848d-60f2-4321-8275-72b9b575b37e@104.21.112.147:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN9609878
-ss://219d848d-60f2-4321-8275-72b9b575b37e@104.25.223.156:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN10561472
