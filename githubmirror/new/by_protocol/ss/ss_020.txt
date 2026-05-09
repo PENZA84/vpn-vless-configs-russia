@@ -397,7 +397,6 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#%F0%9F%87%AC%F0%
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0206
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0218
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7GB-146.70.61.37-0450
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.37:8080#227-%F0%9F%87%AC%F0%9F%87%A7%20GB%F0%9F%90%AD%40GheychiAmoozesh
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.230-0298
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@193.108.119.230:8080#%F0%9F%87%A9%F0%9F%87%AADE-193.108.119.230-0302
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@194.5.215.59:8080#%F0%9F%87%B7%F0%9F%87%B4_RO_%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF
@@ -498,3 +497,4 @@ ss://ddef83b7-0269-fc4f-bd8e-c33e2c5df807@89.124.70.62:5398?security=reality&enc
 ss://ddef83b7-0269-fc4f-bd8e-c33e2c5df807@89.124.72.86:5398?security=reality&encryption=none&pbk=Pvpq99YvDchvhkNcu9WKBQczRRFn-Z4EoGLPKv7LkUk&headerType=&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=703ee948f0421d44#AutoAiVPN16868083
 ss://de2708c5-6e8e-4582-85ed-98f2554e5208@87.121.86.31:57516?security=reality&encryption=none&pbk=ScCsL43AFwGSI8WvpjhAE6Y9PguU49ZLbwF-6YTbrTo&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=google.com&sid=c1765dd26b1e70#%40Golestan_VPN%20-%20%F0%9F%87%AA%F0%9F%87%AA
 ss://de3f9267-1e07-4fda-8b04-c6fc5a5deba1@royalping.laser-rami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40%F0%9D%90%93%F0%9D%90%84%F0%9D%90%92%F0%9D%90%8B%F0%9D%90%80_%F0%9D%90%82%F0%9D%90%8E%F0%9D%90%8D%F0%9D%90%85%F0%9D%90%88%F0%9D%90%8D%F0%9D%90%86%F0%9D%90%87%20%7C%2012%3A15
+ss://de3f9267-1e07-4fda-8b04-c6fc5a5deba1@royalping.laser-rami.ir:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%20%7C%20%40proxystore11%20%7C%202

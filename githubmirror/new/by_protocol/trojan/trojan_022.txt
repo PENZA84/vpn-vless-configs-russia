@@ -1,12 +1,4 @@
-trojan://your_password@188.114.99.0:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#4Mohsen-4868
-trojan://your_password@188.114.99.0:443?security=tls&sni=🔒 [By EbraSha]&allowInsecure=1&type=ws&path=🔒 [By EbraSha]&host=aws-ge-frankfurt-1.f1cflinea.com # 🔒 [By EbraSha]
-trojan://your_password@188.114.99.0:443?security=tls&type=ws&sni=aws-ge-frankfurt-1.f1cflinea.com&path=/f1rocket&host=aws-ge-frankfurt-1.f1cflinea.com#AutoAiVPN1628076
-trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rocketnode.com&type=tcp#4Jadi-5155
-trojan://your_password@52.56.183.187:443?security=tls&sni=aws-uk-london-1.f1rocketnode.com&type=tcp#4Mohsen-4874
-trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1rocketnode.com#%F0%9F%87%A9%F0%9F%87%AA_DE_151
-trojan://your_password@aws-ch-zurich-1.f1cflinea.com:443?security=tls&sni=aws-ch-zurich-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1cflinea.com#%F0%9F%87%BA%F0%9F%87%B8_US_218
-trojan://your_password@aws-ch-zurich-1.f1cflineb.com:443?security=tls&sni=aws-ch-zurich-1.f1cflineb.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1cflineb.com#%F0%9F%87%BA%F0%9F%87%B8_US_225
-trojan://your_password@aws-ch-zurich-1.f1cflineb.com:443?security=tls&sni=aws-ch-zurich-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1cflineb.com#4Jadi-5159
+trojan://your_password@aws-ch-zurich-1.f1cflineb.com:443?security=tls&sni=aws-ch-zurich-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1cflineb.com#4Kian-5190
 trojan://your_password@aws-ch-zurich-1.f1cflineb.com:443?security=tls&sni=aws-ch-zurich-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1cflineb.com#4Mohsen-4878
 trojan://your_password@aws-ch-zurich-1.f1cflineb.com:443?security=tls&sni=🔒 [By EbraSha]&fp=chrome&type=ws&path=🔒 [By EbraSha]&host=aws-ch-zurich-1.f1cflineb.com # 🔒 [By EbraSha]
 trojan://your_password@aws-ch-zurich-1.f1rocketnode.com:443?security=tls&sni=aws-ch-zurich-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ch-zurich-1.f1rocketnode.com#%F0%9F%87%A8%F0%9F%87%AD_CH_241
@@ -19,17 +11,17 @@ trojan://your_password@aws-ge-frankfurt-1.f1cflineb.com:443?security=tls&sni=aws
 trojan://your_password@aws-ge-frankfurt-1.f1rocketnode.com:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-ge-frankfurt-1.f1rocketnode.com#%F0%9F%87%A9%F0%9F%87%AA_DE_235
 trojan://your_password@aws-it-milan-1.f1rocketnode.com:443?security=tls&sni=aws-it-milan-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-it-milan-1.f1rocketnode.com#%F0%9F%87%AE%F0%9F%87%B9_IT_221
 trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#%F0%9F%87%BA%F0%9F%87%B8_US_239
-trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#4Jadi-5162
+trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#4Kian-5193
 trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=aws-se-stockholm-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflinea.com#4Mohsen-4881
 trojan://your_password@aws-se-stockholm-1.f1cflinea.com:443?security=tls&sni=🔒 [By EbraSha]&fp=chrome&type=ws&path=🔒 [By EbraSha]&host=aws-se-stockholm-1.f1cflinea.com # 🔒 [By EbraSha]
 trojan://your_password@aws-se-stockholm-1.f1cflineb.com:443?security=tls&sni=aws-se-stockholm-1.f1cflineb.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1cflineb.com#%F0%9F%87%BA%F0%9F%87%B8_US_371
 trojan://your_password@aws-se-stockholm-1.f1rocketnode.com:443?security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1rocketnode.com#%F0%9F%87%B8%F0%9F%87%AA_SE_237
 trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflinea.com#%F0%9F%87%BA%F0%9F%87%B8_US_249
-trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflinea.com#4Jadi-5165
+trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflinea.com#4Kian-5196
 trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflinea.com#4Mohsen-4884
 trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=🔒 [By EbraSha]&fp=chrome&type=ws&path=🔒 [By EbraSha]&host=aws-uk-london-1.f1cflinea.com # 🔒 [By EbraSha]
 trojan://your_password@aws-uk-london-1.f1cflineb.com:443?security=tls&sni=aws-uk-london-1.f1cflineb.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflineb.com#%F0%9F%87%BA%F0%9F%87%B8_US_233
-trojan://your_password@aws-uk-london-1.f1cflineb.com:443?security=tls&sni=aws-uk-london-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflineb.com#4Jadi-5166
+trojan://your_password@aws-uk-london-1.f1cflineb.com:443?security=tls&sni=aws-uk-london-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflineb.com#4Kian-5197
 trojan://your_password@aws-uk-london-1.f1cflineb.com:443?security=tls&sni=aws-uk-london-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflineb.com#4Mohsen-4885
 trojan://your_password@aws-uk-london-1.f1cflineb.com:443?security=tls&sni=🔒 [By EbraSha]&fp=chrome&type=ws&path=🔒 [By EbraSha]&host=aws-uk-london-1.f1cflineb.com # 🔒 [By EbraSha]
 trojan://ypDt8RkT7J@212.102.54.11:43118?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;sni=tpmrq.phooeyunfold.com#🇮🇹+ایتالیا+🕊️@Gozargah_Azadi
