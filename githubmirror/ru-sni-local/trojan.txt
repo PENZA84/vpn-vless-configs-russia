@@ -1,4 +1,0 @@
-trojan://1e32fe52198848788f029c2ec244f347@212.192.14.227:9443?type=tcp&sni=ya.ru&fp=random&security=reality&pbk=GooqN94J-NNbWxkVsDb7NIQW4xXhkMGByk58ihKwX1Q&sid=aabbccdd#🇷🇺 5 - RU - Trojan/TLS/UTLS - 9443
-trojan://bb06e055ee5b4cb7a3a1e581bd7c09a2@51.250.7.178:9443?security=reality&pbk=vx5RK4STxuAX2947xfELORV0hnIFNxZFRgOtAVk1U3s&headerType=none&fp=random&allowinsecure=0&type=tcp&sni=ya.ru&sid=aabbccdd#%5BOpenRay%5D%20%F0%9F%87%B7%F0%9F%87%BA%20RU-22591
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.211:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#IT🇮🇹
-trojan://blhwsknjxmfuydz0vhfv@146.70.73.214:53809?security=tls&headerType=none&type=tcp&sni=www.vk.com#IT🇮🇹
