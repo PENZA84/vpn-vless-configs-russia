@@ -1,5 +1,3 @@
-ss://669be00c-67b4-4b87-b08f-311c45abced2@nl-3.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=none&fp=safari&spx=%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2%2Ftelegram%20cafe_vpn2&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#AutoAiVPN13226480
-ss://669be00c-67b4-4b87-b08f-311c45abced2@pl.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#AutoAiVPN13460591
 ss://669be00c-67b4-4b87-b08f-311c45abced2@ru.atlanta-internet.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=safari&security=reality&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#AutoAiVPN13228245
 ss://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=static.rutube.ru&amp;fp=chrome&amp;pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&amp;sid=ffffffffff&amp;type=tcp&amp;headerType=none#I%201255%20%28%40Outline_Vpn%29%20free
 ss://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:443?security=reality&amp;encryption=none&amp;pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=static.rutube.ru&amp;sid=ffffffffff#I%201255%20%28%40Outline_Vpn%29%20free
@@ -277,7 +275,6 @@ ss://8f0120f1-ba26-e137-5e06-a99b844741aa@germany-serv1.ip-venzo.com:223?securit
 ss://8f0120f1-ba26-e137-5e06-a99b844741aa@poland-ovh.turkserver.ir:223?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e41865e506628f44#AutoAiVPN9167508
 ss://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl54.vlessx.us&amp;type=ws#%F0%9F%87%B3%F0%9F%87%B1%40V2rayN_Free
 ss://8f1a15bf-a352-4c32-aee2-957039a6847b@ipbaz.ping-box.com:8443?path=%2F%3FTELEGRAM--KANAL--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN--JKVPN%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&host=6nwf5rauksz8126xm.zjde5.de5.net&fp=chrome&type=ws&sni=6nwf5rauksz8126xm.zjde5.de5.net#AutoAiVPN19903422
-ss://8f25d191-c31c-4d07-86ec-db01fe1085d9@london1.ap221.com:443?sni=🔒 [By EbraSha]&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls # 🔒 [By EbraSha]
 ss://8f59feef-aab9-4e0b-924c-2a31bb8f446f@94.156.117.239:30086?type=grpc&serviceName=gprc#NL🇳🇱
 ss://8f631f3f-5854-4d77-961a-ad33e10e29bb@noda1.mcqueenconnection.ru:443?encryption=none&flow=xtls-rprx-vision&security=tls&sni=noda1.mcqueenconnection.ru&fp=chrome&pbk=z68alxxqxPVzTnKwMA85cFIB4ZXqesP99TQ1QP0H2h8&sid=f75c20abc15db38a&packetEncoding=xudp#AutoAiVPN14852509
 ss://8f631f3f-5854-4d77-961a-ad33e10e29bb@yt2.mcqueenconnection.ru:443?security=reality&encryption=none&pbk=eXeP2FDXVR_WKCjX6QyiBjIAsfwcf_LNpz0hHjs63Rs&headerType=none&spx=%2Fsinavm&type=tcp&flow=xtls-rprx-vision&sni=yt2.mcqueenconnection.ru&sid=f5390f7c74c4ea5c#AutoAiVPN14874719
@@ -418,8 +415,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WE5mYTJWN1dibHhWY2lmUk52OUcvR1ZCcVh6QWx6bFB
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WEh0ZHl3VVhUV1gwOGM0dThkdGt3S2NuQ09hY1d6ci9DSmsrc1IwTE5uND0=@65.109.239.15:443#رایگان | SS | @VmessProtocol | FI🇫🇮 | 0️⃣2️⃣
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WFFNa3BiNUpJZnZyUXRhOU81dEVGY1dxeFBtbE1iamQ5V1VhTjdCVUlOYz06RWl4cXlhblFDUktBMjhEWW5qeEF4Q3ljbDJvSVROenY5eFl0N0ZMUUNxaz0%3D@193.176.190.162:1001#AutoAiVPN10923465
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0IyRkxYV2JxWXBYST06c2xmUTNzVmprcVVyZ0ZQTk5mSkZtaXpCQ2ZOWGhiWVIreko4TEJlM243UT0@95.216.238.249:37337#🇫🇮 FI | 95.216.238.249
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y0RiczRUQ3l4blUzcmRIek0wT2Q0aHFHTTFWQ29pMjVjcnhvU1UxQUp1WT06UnR6MHhuc0s5dGdCUWJCc2E4SDF1T3pWR2hUalU0SHQxbUV3UkJZN2wyST0=@46.226.167.138:40485#069-%F0%9F%87%AB%F0%9F%87%B7%20%F0%9F%90%AD%40GheychiAmoozesh
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191#4Kian-1
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191#4FreeIran-1
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191?type=tcp # [ By EbraSha ] 🔒
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191?type=tcp # 🔒 [By EbraSha]
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191?type=tcp#%F0%9F%87%AE%F0%9F%87%B723172%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
@@ -452,11 +448,10 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0MjAwMGUwMi02YjRkLTQ2YWQtYTU3Mi04MGRiN2RiMmE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM=@107.191.63.241:30665#%F0%9F%87%AB%F0%9F%87%B7FR-107.191.63.241-1014
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM=@107.191.63.241:30665#%F0%9F%87%AB%F0%9F%87%B7FR-107.191.63.241-1104
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE5NmM@107.191.63.241:30665#%F0%9F%87%AB%F0%9F%87%B7%20SS-%E6%B3%95%E5%9B%BD-NF%E8%A7%A3%E9%94%81%E6%B3%95%E5%9B%BD%E5%9C%B0%E5%8C%BA%E9%9D%9E%E8%87%AA%E5%88%B6%E5%89%A7-ChatGPT-TikTok-YouTube-107.191.63.241%3A30665
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NTgzNjYyYzUxMjBkYTVh@51.89.118.86:11201#204-%F0%9F%87%AC%F0%9F%87%A7%20%F0%9F%90%AD%40GheychiAmoozesh
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#🇩🇪DE%20%20ROSE—484
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#🇩🇪DE%20%20ROSE—676
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256 # 🔒 [By EbraSha]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4Kian-8
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4FreeIran-8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4Mohsen-16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#%F0%9F%87%B0%F0%9F%87%BFKZ-103.106.3.82-6967
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#🇰🇿 Казахстан
@@ -470,7 +465,9 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0VzJTSm1kS1VNSmpqa1ZmUkRkaA@170.130.31.114:8
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20313045
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20422173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20545067
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20656392
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20734597
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20739598
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0189
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0197
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0203
@@ -480,8 +477,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.157-0364
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-335ms-Greenhost%20BV
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-352ms-Greenhost%20BV
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-354ms-Greenhost%20BV
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-338ms-Greenhost%20BV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#🇳🇱 1 - SS - The Netherlands : 8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#🇳🇱 4 - NL - SS/AEAD - 8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#🇳🇱 Нидерланды 23
@@ -498,3 +494,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.173
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.179:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.179:8080?#0377 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.199:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.199:8080#🇳🇱 Нидерланды 10
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.199:8080?#0946 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.206:8080#%F0%9F%87%B3%F0%9F%87%B1%20ShatakVPN%20126141
