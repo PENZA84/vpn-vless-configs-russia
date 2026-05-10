@@ -1,3 +1,5 @@
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.13.145:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21195075
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.22.240:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN16700501
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.28.24:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13081016
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.30.223:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13239141
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.45.30.4:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12617292
@@ -363,6 +365,7 @@ ss://1091ab59-e8b5-4fca-bdd5-58fcff4fed1f@poland25.clearorbitllc.com:443?securit
 ss://112e6838-9f1f-4680-aab5-db0a74c9877e@anten.ir:8080?type=ws&encryption=none&path=%2F&host=sb24.samantel.co.uk&security=none#%F0%9F%87%AE%F0%9F%87%B722856%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 ss://1160c9ed-96b2-4a3d-84b0-da0df343b31b@176.123.165.51:443?flow=xtls-rprx-vision&fp=chrome&pbk=NEZpSiuf6l2Cp1UcmAaPENQ2CjheHo15j9Hi3KxFLG4&security=reality&sid=d04be486ccd758e8&sni=imgs.strelkavpn.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland,%20Helsinki%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BC%5D%20%7C%20%5BBL%5D
 ss://11b41fc1-192f-4359-9819-7125391d11d5@POLAND.TORPROSPEED.IR:6630?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=KO3CB84Ea9vNhaxlPjg0EKu_FMPeEH6Bgb_P43Fp_2o&sid=e0c8f8e163c60a4f&spx=%2F#AutoAiVPN14835397
+ss://11b7a7f9-5273-4a36-b4ee-af5093434351@midorinote.online:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&amp;security=reality&amp;sid=387d2fb5f83c0cde&amp;sni=rbc.ru&amp;type=tcp#%F0%9F%8D%AC33@oneclickvpnkeys
 ss://11d63702-0518-49af-802b-445fa6c53dfa@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;security=tls&amp;sni=638899131562010490.helsinki-prx-dnraaar.info&amp;type=ws&amp;alpn=&amp;host=638899131562010490.helsinki-prx-dnraaar.info&amp;path=/fqhfuhws#telegram%20%F0%9F%8E%AF%20dailyv2ry
 ss://11e41a32-6672-48a0-b9cb-c8694242ecff@84.252.143.25:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#%F0%9F%87%B7%F0%9F%87%BA%2076%20-%20RU%20-%20VLESS%2FREALITY%2FPBK%2FSID%2FVISION%2FUTLS%20-%20443
 ss://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?security=reality&amp;encryption=none&amp;pbk=MvZRXOgSBhkQB88kC6CnjiKs7pveuPMWA_TFSOvyRQ0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=cf12caecc0#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
@@ -495,6 +498,3 @@ ss://219d848d-60f2-4321-8275-72b9b575b37e@104.17.30.230:443?security=tls&sni=qaa
 ss://219d848d-60f2-4321-8275-72b9b575b37e@104.21.112.147:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN9609878
 ss://219d848d-60f2-4321-8275-72b9b575b37e@104.25.223.156:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN10561472
 ss://219d848d-60f2-4321-8275-72b9b575b37e@104.25.36.120:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN3804592
-ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.153.111:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8603474
-ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.207.150:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8151779
-ss://219d848d-60f2-4321-8275-72b9b575b37e@206.238.236.245:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN10238973
