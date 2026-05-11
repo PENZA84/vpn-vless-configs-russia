@@ -18,6 +18,7 @@ import logging
 from datetime import datetime
 from pathlib import Path
 import subprocess
+from urllib.parse import urlparse  # для дедупликации
 
 # ============================================================================
 # КОНФИГУРАЦИЯ
@@ -121,6 +122,73 @@ def run_mirror_script():
     )
 
 
+def generate_cf_vless():
+    """Генерация 50 уникальных CF-VLESS"""
+    return run_script(
+        "generate_cf_vless.py",
+        "50 новых CF-VLESS",
+        timeout=90
+    )
+
+
+def merge_cf_with_clean():
+    """
+    Сливает свежие CF-конфиги (cf_fresh.txt) в githubmirror/clean/vless.txt
+    с дедупликацией по (IP, port, scheme) – как в mirror.py
+    """
+    clean_path = BASE_DIR / "githubmirror" / "clean" / "vless.txt"
+    cf_fresh_path = BASE_DIR / "githubmirror" / "new" / "cf_fresh.txt"
+
+    if not cf_fresh_path.exists():
+        logger.info("ℹ️ Нет свежих CF-конфигов (cf_fresh.txt) – пропускаем слияние")
+        return False
+
+    # Читаем существующие конфиги (если файл есть)
+    old_configs = []
+    if clean_path.exists():
+        with open(clean_path, 'r', encoding='utf-8') as f:
+            old_configs = [line.strip() for line in f if line.strip()]
+
+    # Читаем новые CF
+    with open(cf_fresh_path, 'r', encoding='utf-8') as f:
+        new_configs = [line.strip() for line in f if line.strip()]
+
+    if not new_configs:
+        logger.info("ℹ️ cf_fresh.txt пуст – нечего добавлять")
+        return False
+
+    # Функция для извлечения (host, port, scheme) – как в mirror.py
+    def extract_key(line):
+        try:
+            u = urlparse(line)
+            return (u.hostname, u.port or 443, u.scheme)
+        except:
+            return None
+
+    old_keys = {extract_key(c) for c in old_configs if extract_key(c)}
+    unique_new = []
+    for cfg in new_configs:
+        key = extract_key(cfg)
+        if key and key not in old_keys:
+            unique_new.append(cfg)
+            old_keys.add(key)  # чтобы не добавлять дубли внутри самого new
+
+    if not unique_new:
+        logger.info("ℹ️ Все новые CF-конфиги уже есть в clean/vless.txt")
+        return False
+
+    # Объединяем и перезаписываем clean/vless.txt
+    all_configs = old_configs + unique_new
+    # Сортируем для стабильности
+    all_configs.sort()
+    with open(clean_path, 'w', encoding='utf-8') as f:
+        f.write('\n'.join(all_configs))
+
+    logger.info(f"🔄 Добавлено {len(unique_new)} новых CF-VLESS в {clean_path}")
+    logger.info(f"📊 Всего в clean/vless.txt теперь: {len(all_configs)}")
+    return True
+
+
 def run_filter_script():
     """Запуск основного SNI-фильтра (глобальные CDN + RU домены)"""
     return run_script(
@@ -198,6 +266,16 @@ def collect_statistics():
         else:
             logger.warning("  ⚠️  Директория githubmirror/ru-sni не найдена")
         
+        # ========= ДОБАВЛЕНО: Подсчёт новых CF-конфигов =========
+        cf_fresh_path = BASE_DIR / "githubmirror" / "new" / "cf_fresh.txt"
+        new_cf_count = 0
+        if cf_fresh_path.exists():
+            with open(cf_fresh_path, 'r', encoding='utf-8') as f:
+                new_cf_count = sum(1 for line in f if line.strip())
+        stats["new_cf_added"] = new_cf_count
+        logger.info(f"  ✨ Новых CF-VLESS в этом запуске: {new_cf_count}")
+        # ========================================================
+        
         total_clean = stats["totals"]["clean"]
         total_ru_sni = stats["totals"]["ru_sni"]
         
@@ -230,8 +308,9 @@ def check_dependencies():
     
     required_scripts = [
         "mirror.py",
+        "generate_cf_vless.py",      # ДОБАВЛЕНО
         "filter_ru_sni.py",
-        "filter_ru_sni_local.py",  # ✅ добавили второй фильтр
+        "filter_ru_sni_local.py",
     ]
     
     missing = []
@@ -265,12 +344,16 @@ def main():
     
     logger.info("")
     
+    # ========= ОБНОВЛЁННЫЙ СПИСОК ШАГОВ =========
     steps = [
         ("mirror",      "Загрузка и geo-фильтрация",          run_mirror_script),
+        ("cf_generate", "Генерация 50 уникальных CF-VLESS",   generate_cf_vless),
+        ("cf_merge",    "Слияние CF с основным списком",      merge_cf_with_clean),
         ("filter_sni",  "Фильтрация по реальному SNI",        run_filter_script),
         ("filter_ru",   "Экспериментальный RU-SNI фильтр",    run_filter_local_script),
         ("stats",       "Сбор статистики",                    collect_statistics),
     ]
+    # =============================================
     
     results = {}
     
@@ -328,4 +411,3 @@ if __name__ == "__main__":
         exit_code = 3
     
     sys.exit(exit_code)
-
