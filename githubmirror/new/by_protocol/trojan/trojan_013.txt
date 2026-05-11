@@ -1,10 +1,3 @@
-trojan://eZgGKg5uur@x1-ireland-amazon-v2.devefun.org:1935?security=tls&headerType=none&type=tcp&sni=x1-ireland-amazon-v2.devefun.org#AutoAiVPN4263563
-trojan://eadf99d1-a4ab-4574-8e43-1a1050675bd3@51.38.99.96:443?security=tls&sni=sourceforge.net&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20NA%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
-trojan://eaf7e1e0-4683-11f0-bfef-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp # ⚡ [By EbraSha]
-trojan://eaf7e1e0-4683-11f0-bfef-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#4Mohsen-4399
-trojan://eaf7e1e0-4683-11f0-bfef-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray🤍
-trojan://eaf7e1e0-4683-11f0-bfef-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
-trojan://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052/?type=httpupgrade&host=www-domain.uk1.vless.sitespeedtest.net&path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560&security=tls&sni=www-domain.uk1.vless.sitespeedtest.net # ⚡ [By EbraSha]
 trojan://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052/?type=httpupgrade&host=www-domain.uk1.vless.sitespeedtest.net&path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560&security=tls&sni=www-domain.uk1.vless.sitespeedtest.net#%40Hope_Net-join-us-on-Telegram
 trojan://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052?path=%2Fhttpupgrade%3Fed%3DTelegram%40Linkvws%3Fed%3D2560&security=none&encryption=none&host=www-domain.uk1.vless.sitespeedtest.net&type=httpupgrade#IR-%40V2ray_Alpha-8
 trojan://edcfbd77-d607-53a9-842c-32592c2504b2@104.19.209.229:2052?security=none&type=httpupgrade&host=www-domain.uk1.vless.sitespeedtest.net#AutoAiVPN6959993
@@ -420,7 +413,6 @@ trojan://telegram-id-directvpn@13.36.88.140:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.36.88.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20788601
 trojan://telegram-id-directvpn@13.36.88.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 373 | Ord-21|t.me/Crackbest2
 trojan://telegram-id-directvpn@13.36.88.140:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 374 | Ord-21|t.me/Crackbest2
-trojan://telegram-id-directvpn@13.36.88.140:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk # ⚡ [By EbraSha]
 trojan://telegram-id-directvpn@13.36.88.140:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@13.36.92.219:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN11745122
 trojan://telegram-id-directvpn@13.36.93.101:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN658523
@@ -456,6 +448,7 @@ trojan://telegram-id-directvpn@13.37.158.16:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.37.158.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 106 - FR - Trojan/TLS - 22223
 trojan://telegram-id-directvpn@13.37.158.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 245 | Ord-21|t.me/Crackbest2
 trojan://telegram-id-directvpn@13.37.158.16:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 246 | Ord-21|t.me/Crackbest2
+trojan://telegram-id-directvpn@13.37.158.16:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk # ⚡ [By EbraSha]
 trojan://telegram-id-directvpn@13.37.158.16:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@13.37.160.116:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN3465013
 trojan://telegram-id-directvpn@13.37.160.116:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk # ⚡ [By EbraSha]
@@ -468,7 +461,6 @@ trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&alpn=http/1.1&he
 trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🇫🇷 107 - FR - Trojan/TLS - 22223
 trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 239 | Ord-21|t.me/Crackbest2
 trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#🌐سرور 240 | Ord-21|t.me/Crackbest2
-trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk # ⚡ [By EbraSha]
 trojan://telegram-id-directvpn@13.37.161.114:22223?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#OurChannel
 trojan://telegram-id-directvpn@13.37.161.123:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4184416
 trojan://telegram-id-directvpn@13.37.161.126:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN7441297
@@ -498,3 +490,11 @@ trojan://telegram-id-directvpn@13.37.43.85:22223?security=tls&alpn=http/1.1&head
 trojan://telegram-id-directvpn@13.37.45.46:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4947959
 trojan://telegram-id-directvpn@13.37.49.244:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8633697
 trojan://telegram-id-directvpn@13.37.53.79:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN19864258
+trojan://telegram-id-directvpn@13.37.54.205:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN5963504
+trojan://telegram-id-directvpn@13.37.56.104:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8061994
+trojan://telegram-id-directvpn@13.37.56.225:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN1242137
+trojan://telegram-id-directvpn@13.37.61.95:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN12399913
+trojan://telegram-id-directvpn@13.37.65.168:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN8428493
+trojan://telegram-id-directvpn@13.37.66.223:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9839336
+trojan://telegram-id-directvpn@13.37.70.47:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN14629932
+trojan://telegram-id-directvpn@13.37.76.238:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk # ⚡ [By EbraSha]
