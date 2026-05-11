@@ -1,3 +1,4 @@
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.49.52:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12672013
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.110:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15136109
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.149:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN1986800
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.207:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12248082
@@ -119,7 +120,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.58.93.190:22224?type=ws&security=tl
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.100.190:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN3095011
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.125.49:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13475570
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.144.4:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21815243
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.183.236:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.32.176:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN13311472
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.43.9:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14927946
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.59.44.246:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15700025
@@ -377,7 +377,6 @@ ss://112e6838-9f1f-4680-aab5-db0a74c9877e@anten.ir:8080?type=ws&encryption=none&
 ss://11348c0f-b646-446a-bad7-b2b39c6de767@138.124.9.190:16558?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vDKgmefC_2JaSrrvQSsb7DU3KBeKUlXG1V0vgdjv_i4&security=reality&sid=0a856e071790b1&sni=gpuopen.com&type=tcp#REALITY|CH🇨🇭
 ss://1160c9ed-96b2-4a3d-84b0-da0df343b31b@176.123.165.51:443?flow=xtls-rprx-vision&fp=chrome&pbk=NEZpSiuf6l2Cp1UcmAaPENQ2CjheHo15j9Hi3KxFLG4&security=reality&sid=d04be486ccd758e8&sni=imgs.strelkavpn.com&type=tcp#%F0%9F%87%AB%F0%9F%87%AE%20Finland,%20Helsinki%20%7C%20%F0%9F%8C%90%20Anycast-IP%20%7C%20%5BC%5D%20%7C%20%5BBL%5D
 ss://11b41fc1-192f-4359-9819-7125391d11d5@POLAND.TORPROSPEED.IR:6630?security=reality&type=tcp&headerType=&path=&host=&sni=refersion.com&fp=firefox&pbk=KO3CB84Ea9vNhaxlPjg0EKu_FMPeEH6Bgb_P43Fp_2o&sid=e0c8f8e163c60a4f&spx=%2F#AutoAiVPN14835397
-ss://11b7a7f9-5273-4a36-b4ee-af5093434351@midorinote.online:443?encryption=none&amp;flow=xtls-rprx-vision&amp;fp=&amp;pbk=Cxvc5bVMKln6RxPs5MtviUZNDsmpfuYUK8UFBlcBaS0&amp;security=reality&amp;sid=387d2fb5f83c0cde&amp;sni=rbc.ru&amp;type=tcp#%F0%9F%8D%AC33@oneclickvpnkeys
 ss://11d63702-0518-49af-802b-445fa6c53dfa@ipw.gfdv54cvghhgfhgj-njhgj64.info:443?encryption=none&amp;security=tls&amp;sni=638899131562010490.helsinki-prx-dnraaar.info&amp;type=ws&amp;alpn=&amp;host=638899131562010490.helsinki-prx-dnraaar.info&amp;path=/fqhfuhws#telegram%20%F0%9F%8E%AF%20dailyv2ry
 ss://11e41a32-6672-48a0-b9cb-c8694242ecff@84.252.143.25:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=yandex.ru&fp=chrome&security=reality&pbk=zr8_rtHm86s_G1gfRwNtunStGngYZSdYkA3PyBFXpDg&sid=28047c78b3f5ee2c#%F0%9F%87%B7%F0%9F%87%BA%2076%20-%20RU%20-%20VLESS%2FREALITY%2FPBK%2FSID%2FVISION%2FUTLS%20-%20443
 ss://11e559f8-f5b7-48be-9ab5-7fc0915569e0@38.180.132.206:443?security=reality&amp;encryption=none&amp;pbk=MvZRXOgSBhkQB88kC6CnjiKs7pveuPMWA_TFSOvyRQ0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=cf12caecc0#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
@@ -498,3 +497,4 @@ ss://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.c
 ss://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws#🔥Join+Telegram:@Farah_VPN🟣
 ss://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 ss://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443?security=reality&amp;encryption=none&amp;pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=a20d3ed244c76426#%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA
+ss://20eec0fa-d009-4118-9159-077300d75a57@x1.kad520.uk:24409?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=RpEwlnf4E8u90Hgv-NwPFCPBGOVO-J848er_QQ8VQXw&sid=4759565fdc6210&spx=%2F&type=tcp&headerType=none#AutoAiVPN12614775
