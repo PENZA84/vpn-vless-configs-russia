@@ -134,30 +134,39 @@ def generate_cf_vless():
 def merge_cf_with_clean():
     """
     Сливает свежие CF-конфиги (cf_fresh.txt) в githubmirror/clean/vless.txt
-    с дедупликацией по (IP, port, scheme) – как в mirror.py
+    с дедупликацией по (IP, port, scheme).
+    Возвращает True всегда, кроме критических ошибок ввода-вывода.
     """
     clean_path = BASE_DIR / "githubmirror" / "clean" / "vless.txt"
     cf_fresh_path = BASE_DIR / "githubmirror" / "new" / "cf_fresh.txt"
 
     if not cf_fresh_path.exists():
         logger.info("ℹ️ Нет свежих CF-конфигов (cf_fresh.txt) – пропускаем слияние")
-        return False
+        return True   # не ошибка, просто нет данных
 
-    # Читаем существующие конфиги (если файл есть)
+    # Читаем существующие конфиги
     old_configs = []
     if clean_path.exists():
-        with open(clean_path, 'r', encoding='utf-8') as f:
-            old_configs = [line.strip() for line in f if line.strip()]
+        try:
+            with open(clean_path, 'r', encoding='utf-8') as f:
+                old_configs = [line.strip() for line in f if line.strip()]
+        except Exception as e:
+            logger.error(f"❌ Ошибка чтения {clean_path}: {e}")
+            return False
 
     # Читаем новые CF
-    with open(cf_fresh_path, 'r', encoding='utf-8') as f:
-        new_configs = [line.strip() for line in f if line.strip()]
+    try:
+        with open(cf_fresh_path, 'r', encoding='utf-8') as f:
+            new_configs = [line.strip() for line in f if line.strip()]
+    except Exception as e:
+        logger.error(f"❌ Ошибка чтения {cf_fresh_path}: {e}")
+        return False
 
     if not new_configs:
         logger.info("ℹ️ cf_fresh.txt пуст – нечего добавлять")
-        return False
+        return True
 
-    # Функция для извлечения (host, port, scheme) – как в mirror.py
+    # Дедупликация
     def extract_key(line):
         try:
             u = urlparse(line)
@@ -171,18 +180,21 @@ def merge_cf_with_clean():
         key = extract_key(cfg)
         if key and key not in old_keys:
             unique_new.append(cfg)
-            old_keys.add(key)  # чтобы не добавлять дубли внутри самого new
+            old_keys.add(key)
 
     if not unique_new:
-        logger.info("ℹ️ Все новые CF-конфиги уже есть в clean/vless.txt")
-        return False
+        logger.info("✅ Все новые CF-конфиги уже есть в clean/vless.txt (дедупликация) — добавление не требуется")
+        return True
 
-    # Объединяем и перезаписываем clean/vless.txt
+    # Объединяем и записываем
     all_configs = old_configs + unique_new
-    # Сортируем для стабильности
     all_configs.sort()
-    with open(clean_path, 'w', encoding='utf-8') as f:
-        f.write('\n'.join(all_configs))
+    try:
+        with open(clean_path, 'w', encoding='utf-8') as f:
+            f.write('\n'.join(all_configs))
+    except Exception as e:
+        logger.error(f"❌ Ошибка записи в {clean_path}: {e}")
+        return False
 
     logger.info(f"🔄 Добавлено {len(unique_new)} новых CF-VLESS в {clean_path}")
     logger.info(f"📊 Всего в clean/vless.txt теперь: {len(all_configs)}")
