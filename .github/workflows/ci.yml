@@ -1,7 +1,7 @@
 name: Auto Key Checker
 on:
   schedule:
-    - cron: '0 */6 * * *'  # каждые 6 часов
+    - cron: '0 */6 * * *' # каждые 6 часов
   workflow_dispatch:
 
 permissions:
@@ -9,7 +9,7 @@ permissions:
 
 concurrency:
   group: vpn-checker
-  cancel-in-progress: true  # ✅ только один запуск одновременно
+  cancel-in-progress: true # ✅ только один запуск одновременно
 
 jobs:
   check-keys:
@@ -31,7 +31,11 @@ jobs:
       - name: Install Dependencies
         run: |
           pip install --upgrade pip
-          pip install -r requirements.txt requests
+          # ✨ Установка библиотеки requests ✨
+          if [ -f requirements.txt ]; then
+            pip install -r requirements.txt
+          fi
+          pip install requests
 
       - name: Create config_sources.json from VPN_SOURCES secret
         run: echo '${{ secrets.VPN_SOURCES }}' > config_sources.json
