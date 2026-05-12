@@ -46,6 +46,7 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.104.238:22224?type=ws&security=t
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.105.165:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7980949
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.106.107:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8844012
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.106.4:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10108703
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.109.123:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.11.189:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN1658617
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.126.131:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14974837
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.36.131.171:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12329047
@@ -165,7 +166,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.61.95:22224?type=ws&security=tls
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.65.168:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8428421
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.66.223:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN9839244
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.70.47:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14629820
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.76.238:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.8.196:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21119097
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.8.71:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN20974330
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.37.84.247:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN1658615
