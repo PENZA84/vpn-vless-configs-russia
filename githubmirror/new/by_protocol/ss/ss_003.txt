@@ -489,8 +489,7 @@ ss://1fc%65%61149-96c%61-45f%61-8%65d2-094fd6c927f1@zula.ir:2095?path=%2F%40%58p
 ss://1fcb692d-d35f-4295-bbc5-0512f51a3c41@104.18.26.90:2053?path=%2Fcontainers%2Fde&security=tls&encryption=none&type=ws&sni=om3.omidsuccess.uk#AutoAiVPN12400767
 ss://1ff9dc4a-4853-4790-a81c-13e195c957e8@51.195.119.75:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws&sni=ov-germany6.09vpn.com#AutoAiVPN7876629
 ss://201cb355-27c3-4bcc-a27f-50394519d242@pol1.linkey37.ru:443?security=reality&encryption=none&pbk=z6ja1quSA8bpLdIzWDb9Yj8mnl8Mw_Q0PZB6-3Jgg2U&headerType=none&fp=edge&type=tcp&flow=xtls-rprx-vision&sni=www.yandex.ru#REALITY|PL🇵🇱
-ss://2022-blake3-aes-256-gcm:MzQwNWMxZmQ1YTNlNDQyOGIwOTFjYTUyOWMzN2Y1OTY=:OTBkMGZjZDg1Y2Q4NGU1MmFkMTVkOGJlZTgwY2Y1Zjg=@31.130.131.214:30453?#0784 | 🇳🇱 Netherlands | SS | 📺 YT | TG: @YoutubeUnBlockRu
-ss://2022-blake3-aes-256-gcm:MzQwNWMxZmQ1YTNlNDQyOGIwOTFjYTUyOWMzN2Y1OTY=:OTBkMGZjZDg1Y2Q4NGU1MmFkMTVkOGJlZTgwY2Y1Zjg=@vpn.tgflovv.ru:30453?#1260 | 🌐 Unknown | SS | TG: @YoutubeUnBlockRu
+ss://2022-blake3-aes-256-gcm:MzQwNWMxZmQ1YTNlNDQyOGIwOTFjYTUyOWMzN2Y1OTY=:OTBkMGZjZDg1Y2Q4NGU1MmFkMTVkOGJlZTgwY2Y1Zjg=@vpn.tgflovv.ru:30453?
 ss://203b0744-f943-4bba-a8d2-cab635467c46@45.136.126.16:443?security=reality&amp;encryption=none&amp;pbk=_L_eqCCzVbP0fzWTA_AqtmlyZVscCzrJ5b2nXFnq3U0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=google.com&amp;sid=d020b2#%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
 ss://2054405e-70ff-40a2-ae27-16b63d72390a@deDiCaTED-deVelOPMENt.seoTOOLSforYoU.CO.UK:80?path=%2F&security=&encryption=none&type=ws#AutoAiVPN805
 ss://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.co.uk:80?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws # ⚡ [By EbraSha]
@@ -498,3 +497,4 @@ ss://2054405e-70ff-40a2-ae27-16b63d72390a@dedicated-development.seotoolsforyou.c
 ss://20adc847-4159-4f39-b79f-d563b660945f@simurgh.adslimit.info:2345?security=&amp;encryption=none&amp;headerType=none&amp;type=tcp#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 ss://20cf5921-f7fa-47c5-81ae-947fbef83a4d@51.250.20.121:443?security=reality&amp;encryption=none&amp;pbk=bYPDMM7Z7s3brAUozWIqspE24dQwgHyI60lDRZvscVo&amp;host=%2F%3FBIA_TELEGRAM%40MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ads.x5.ru&amp;sid=a20d3ed244c76426#%40MARAMBASHI%20%F0%9F%87%A9%F0%9F%87%AA
 ss://20eec0fa-d009-4118-9159-077300d75a57@x1.kad520.uk:24409?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.icloud.com&fp=chrome&pbk=RpEwlnf4E8u90Hgv-NwPFCPBGOVO-J848er_QQ8VQXw&sid=4759565fdc6210&spx=%2F&type=tcp&headerType=none#AutoAiVPN12614775
+ss://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:2083?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=earthplantshop.de&type=ws&allowInsecure=0#AutoAiVPN21243722
