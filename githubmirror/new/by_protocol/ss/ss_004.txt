@@ -147,6 +147,7 @@ ss://38ced162-2eb3-4aee-998f-747961f02c01@helsinki.fonixapp.org:23747?security=r
 ss://393b50c8-c060-465f-b179-b1a824f52a03@nl7.fastlanehosting.ru:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=marktplaats.nl&fp=chrome&security=reality&pbk=pSnQPTV7975vhNh83dHdXEyvCJiiTqYxpDY638xy9SI&sid=9e#AutoAiVPN15979302
 ss://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?alpn=h2&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#GB🇬🇧
 ss://394f6981-a782-4779-9a85-e6cf22935d93@195.181.173.199:8443?allowInsecure=1&alpn=h2&encryption=none&security=tls&sni=ams1.fromblancwithlove.com&type=tcp#NL🇳🇱
+ss://394f6981-a782-4779-9a85-e6cf22935d93@uk1.fromblancwithlove.com:8443?allowInsecure=1&encryption=none&security=tls&type=tcp # ⚡ [By EbraSha]
 ss://39581fd3-5c3c-4f3a-b62a-6653f803dfd6@190.93.247.155:8443?security=tls&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&fp=chrome#AutoAiVPN20832925
 ss://39b37ef4-f81b-468a-b830-e9fa8a4833a7@80.253.251.62:443?security=reality&encryption=none&pbk=UJOoR_vbXzL72OQOad3GD7w7jpzhAPsue3j8aldt-hg&host=Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore%20Join---nitruStore---Join---nitruStore&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=yahoo.com&sid=3c3d#AutoAiVPN12755460
 ss://39b86671-bdb6-4493-9c5d-cd2e950a2297@kz.nitroo-tech.ru:443?security=reality&encryption=none&pbk=elMH63logRDheIXkwxE7js7tpRFfJw0FHHlUSYpfPQU&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=mirror.yandex.ru&sid=2f95#AutoAiVPN12522877
@@ -497,4 +498,3 @@ ss://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?mode=a
 ss://67c3f0a4-57ba-48ae-a091-d3114d4153c0@190.93.246.241:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=London.vipgermany.lol#MCI2
 ss://6896fa3d-f3d3-43c7-a742-ebc45a2c9f26@ov-france2.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#AutoAiVPN8701105
 ss://68b806e5-e240-4c58-a2ca-2fcba663a39f@185.143.233.235:80?security=&encryption=none&host=gb-london.lzccp.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B722806%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-ss://68b806e5-e240-4c58-a2ca-2fcba663a39f@185.143.233.235:80?security=&encryption=none&host=gb-london.lzccp.ir&type=ws#IR🇮🇷
