@@ -191,6 +191,7 @@ ss://42f84d7c-f225-425b-b2cd-56043d76c6be@best.configforvpn.fun:2053?mode=gun&am
 ss://4339007f-6132-4276-afd5-828a16a5a79f@panel.pocketbrain.ru:21929?security=reality&encryption=none&pbk=qAIXS8H9t650DC9msTecxrvhD4myn9wBvcZL4NlLcTQ&headerType=none&fp=random&type=tcp&sni=yahoo.com&sid=a6f7a9bc2aabe632#AutoAiVPN5074446
 ss://43488128-319e-f480-64ea-0acdc712e2a8@136.244.93.228:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=Ic2uiGhkBgJUsY0CZUBqa1y22V_BO7F4S93Zgk_ir2c&security=reality&sid=a1b2c3d4e5f67890&sni=www.booking.com&type=tcp#REALITY|DE🇩🇪
 ss://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp#REALITY|GB🇬🇧
+ss://43488128-319e-f480-64ea-0acdc712e2a8@178.159.10.78:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=6tORX9bm6UlGJ4dR8L2kzOd21oSrOyzpN7gC6SqGGyc&security=reality&sid=d27683580fc15f1e&sni=www.vodafone.co.uk&type=tcp # ⚡ [By EbraSha]
 ss://43488128-319e-f480-64ea-0acdc712e2a8@51.158.62.94:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=nUl4-UbSlrf8sCY4QNCKF3dMmgWLWJbgeziVqwfklhU&security=reality&sid=ad3c6641d540b4e1&sni=www.laposte.fr&type=tcp#REALITY|FR🇫🇷
 ss://43660f19-e968-424d-bd9d-cfcfdd638e4a@51.250.4.176:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4c02bbbfa833b3b6#🇷🇺 [AS200350] Yandex.Cloud LLC #353 (ads.x5.ru)
 ss://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F # ⚡ [By EbraSha]
@@ -497,4 +498,3 @@ ss://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?mode=a
 ss://67340574-ff95-4338-8c8a-46caa044effd@trt.fastlynew.hosting-ip.com:80?mode=auto&amp;path=%2F%3Fed%3D2560&amp;security=none&amp;encryption=none&amp;host=maxfr171.global.ssl.fastly.net&amp;type=xhttp#%F0%9F%87%AB%F0%9F%87%B7%40FreakConfig
 ss://67c3f0a4-57ba-48ae-a091-d3114d4153c0@190.93.246.241:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=London.vipgermany.lol#MCI2
 ss://6896fa3d-f3d3-43c7-a742-ebc45a2c9f26@ov-france2.09vpn.com:8443?path=%2Fvless%2F&security=tls&encryption=none&type=ws#AutoAiVPN8701105
-ss://68b806e5-e240-4c58-a2ca-2fcba663a39f@185.143.233.235:80?security=&encryption=none&host=gb-london.lzccp.ir&type=ws#%F0%9F%87%AE%F0%9F%87%B722806%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
