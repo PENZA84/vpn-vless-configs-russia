@@ -1,3 +1,4 @@
+ss://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:8443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=earthplantshop.de&type=ws&allowInsecure=0#AutoAiVPN21243727
 ss://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;host=google.com&amp;type=ws#%40V2rayNG3
 ss://2197f2f3-7634-4609-a525-7361b1d4782d@France.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#AutoAiVPN5876029
 ss://2197f2f3-7634-4609-a525-7361b1d4782d@Germany1.amirconfigpanelllll.com:625?security=none&encryption=none&host=zhaket.com&headerType=http&type=tcp#AutoAiVPN5884499
@@ -205,7 +206,6 @@ ss://42f84d7c-f225-425b-b2cd-56043d76c6be@best.configforvpn.fun:2053?mode=gun&am
 ss://4339007f-6132-4276-afd5-828a16a5a79f@panel.pocketbrain.ru:21929?security=reality&encryption=none&pbk=qAIXS8H9t650DC9msTecxrvhD4myn9wBvcZL4NlLcTQ&headerType=none&fp=random&type=tcp&sni=yahoo.com&sid=a6f7a9bc2aabe632#AutoAiVPN5074446
 ss://43488128-319e-f480-64ea-0acdc712e2a8@145.239.8.221:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ESRdmody9xdWVTaCtyGLg_LDopyMm9bUYDWH8NVWtjE&security=reality&sid=c906f73d3ba8211f&sni=www.leboncoin.fr&type=tcp#REALITY|FR🇫🇷
 ss://43488128-319e-f480-64ea-0acdc712e2a8@45.77.139.2:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=K1p8iHF_pzt-Y07A-xqyEMvgFPdhWgJ0k6mLmRv42yg&security=reality&sid=d4356669ea880400&sni=www.ing.nl&type=tcp#REALITY|NL🇳🇱
-ss://43488128-319e-f480-64ea-0acdc712e2a8@95.179.236.230:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=ZpkoOvcRglQoTWJ3B7hiJlmMYTtIu41hJ51FMMdSTDE&security=reality&sid=98c3d62ba1c26863&sni=www.argos.co.uk&type=tcp # ⚡ [By EbraSha]
 ss://43660f19-e968-424d-bd9d-cfcfdd638e4a@51.250.4.176:443?security=reality&encryption=none&pbk=MNTWCLyV7EquFn-J0a6KRlQZ0dt6QY5mmu7Dq8uDkxw&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=ads.x5.ru&sid=4c02bbbfa833b3b6#🇷🇺 [AS200350] Yandex.Cloud LLC #353 (ads.x5.ru)
 ss://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F # ⚡ [By EbraSha]
 ss://43791e7f-8e02-4189-9533-4f842bcacd79@charming-process.seotoolsforyou.co.uk:80?encryption=none&amp;security=none&amp;type=ws&amp;path=%2F#🔥Join+Telegram:@Farah_VPN🟣
