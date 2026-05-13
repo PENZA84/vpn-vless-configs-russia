@@ -1,3 +1,5 @@
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.110:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15136109
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.149:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN1986800
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.207:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12248082
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.54.217:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN1677447
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.56.77:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4147543
@@ -298,7 +300,6 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.46.78:22224?type=ws&security=tl
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.182.57.211:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN16258736
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.183.64.228:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.0.115:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12903001
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.184.155.101:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://0591dfc2-3823-4fd9-8353-39935995c7a4@cf-yx-us.sslw2.top:443?path=%2Fvless_ws%3Fed%3D4096&security=tls&encryption=none&insecure=0&host=cdn-mfuk.sw8.pw&type=ws&allowInsecure=0&sni=KRDIA5D0MweRtzvw.sw8.pw#AutoAiVPN15910001
 ss://05c5475e-c857-05b0-5e1f-3e7214ddb346@23.81.34.114:1003?security=reality&encryption=none&pbk=Pvpq99YvDchvhkNcu9WKBQczRRFn-Z4EoGLPKv7LkUk&host=mci.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=27e6b66aa77662fb#AutoAiVPN16490637
 ss://05c5475e-c857-05b0-5e1f-3e7214ddb346@23.81.34.114:1004?security=reality&encryption=none&pbk=Pvpq99YvDchvhkNcu9WKBQczRRFn-Z4EoGLPKv7LkUk&host=mci.ir&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=refersion.com&sid=27e6b66aa77662fb#AutoAiVPN16490645
@@ -497,4 +498,3 @@ ss://20eec0fa-d009-4118-9159-077300d75a57@x1.kad520.uk:24409?encryption=none&flo
 ss://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:2083?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=earthplantshop.de&type=ws&allowInsecure=0#AutoAiVPN21243722
 ss://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=earthplantshop.de&type=ws&allowInsecure=0#AutoAiVPN21243726
 ss://216ce5e7-8158-49bc-b6b9-9af7709dfccc@earthplantshop.de:8443?path=%2Fvlessws&security=tls&encryption=none&insecure=0&host=earthplantshop.de&type=ws&allowInsecure=0#AutoAiVPN21243727
-ss://21911efc-b47c-47db-8316-aa07a793c067@ov-germany5.09vpn.com:80?path=%2Fvless%2F&amp;security=none&amp;encryption=none&amp;host=google.com&amp;type=ws#%40V2rayNG3
