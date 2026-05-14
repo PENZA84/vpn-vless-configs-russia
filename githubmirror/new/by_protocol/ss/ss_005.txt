@@ -1,3 +1,4 @@
+ss://669be00c-67b4-4b87-b08f-311c45abced2@pl.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#AutoAiVPN13460591
 ss://669be00c-67b4-4b87-b08f-311c45abced2@ru.atlanta-internet.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=safari&security=reality&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#AutoAiVPN13228245
 ss://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=static.rutube.ru&amp;fp=chrome&amp;pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&amp;sid=ffffffffff&amp;type=tcp&amp;headerType=none#I%201255%20%28%40Outline_Vpn%29%20free
 ss://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:443?security=reality&amp;encryption=none&amp;pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=static.rutube.ru&amp;sid=ffffffffff#I%201255%20%28%40Outline_Vpn%29%20free
@@ -261,7 +262,6 @@ ss://8d966869-a0f6-4cc0-aafa-2b2b4d180f80@noda1.zapret-tg.ru:443?security=realit
 ss://8d966869-a0f6-4cc0-aafa-2b2b4d180f80@noda2.zapret-tg.ru:443?security=reality&encryption=none&pbk=5Rc4z-sQ8c_YXqoTLktZfkgE8FaRy6UjFKwLASIVoAg&headerType=none&fp=chrome&spx=%2F&type=tcp&flow=xtls-rprx-vision&sni=noda2.zapret-tg.ru&sid=3fbc4aec3243f6b5#AutoAiVPN12981237
 ss://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@104.21.23.43:2096?security=tls&sni=moon.norwaylovers.com&type=ws&path=%2Fmoon#AutoAiVPN16271384
 ss://8daf8455-c3cc-4717-8e5a-f36c82a9eb2a@172.67.208.209:2096?security=tls&sni=moon.norwaylovers.com&type=ws&path=%2Fmoon#AutoAiVPN16201132
-ss://8dc7722c-2767-4eea-a28b-2f8daacc07e3@yesok42v2.ip4exordir.shop:8880?mode=gun&amp;security=none&amp;encryption=none&amp;type=grpc#%F0%9F%87%A9%F0%9F%87%AA%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 ss://8dcae9dc-7ec3-4065-8d24-18eda4d7c7b5@159.69.198.253:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=de7.korda.top&amp;sni=de7.korda.top#%F0%9F%87%A9%F0%9F%87%AA+%40FreakConfig
 ss://8e34718c-31b7-4d1c-932d-57bc1eae8f68@GozargahVPN-GozargahVPN-GozargahVPN.mymtn.sbs:443?type=tcp&amp;path=/@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN-@GozargahVPN&amp;headerType=http&amp;security=none#%F0%9F%87%A9%F0%9F%87%AA%20%40GozargahVPN%20-5
 ss://8f0120f1-ba26-e137-5e06-a99b844741aa@germany-serv1.ip-venzo.com:223?security=reality&encryption=none&pbk=2hoQE6WBJlr4DHrp7TxqPOT8i24iodEaCQp-qugbD3U&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=e41865e506628f44#AutoAiVPN9483739
@@ -327,7 +327,6 @@ ss://96c184e6-0d47-472d-8905-1b12ecf62f80@ip.iranshopering.ir:8880?path=%2FNama%
 ss://97ce830f-53a1-4f5a-b0c1-c0d9d404acb6@185.143.233.5:80?path=%2Fxray&amp;security=none&amp;encryption=none&amp;host=bot.vipiranian.de&amp;type=ws#%F0%9F%87%A9%F0%9F%87%AA%20%20%7C%20%40proxystore11
 ss://97e7c83c-9346-49b4-85a5-1e3bbf7488b9@wolfy.ufavpn.ru:52900/?type=tcp&encryption=none&flow=&sni=ozon.ru&fp=chrome&security=reality&pbk=AjYSCSFHfqOg-NbP_ngiRvJkKNKZXuHNDa1sJd4TRRQ&sid=1fbc#AutoAiVPN13451585
 ss://980a1466-cb06-4c5e-8e36-6e55984246e2@23.88.119.83:2025?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=hGlEVjlgkbHz7APkZPO6ZV3WEtCJW3Wkdx7xOISyP3Y&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn---Join---Arshiavpn&amp;sni=miro.com&amp;sid=d9#%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
-ss://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=%2F%3Fhost%3Alocalhoat%3A443%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;host=uk.dlaparat.ir&amp;fp=chrome&amp;type=ws&amp;sni=uk.dlaparat.ir#%F0%9F%87%A8%F0%9F%87%A6%40vpn_ioss%20%E2%99%BB%EF%B8%8F%20%D8%B3%D8%B1%D9%88%D8%B1%D9%87%D8%A7%DB%8C%20%D8%A8%DB%8C%D8%B4%D8%AA%D8%B1%20%D8%B9%D8%B6%D9%88%20%D8%B4%D9%88
 ss://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=%2F%3Fhost%3Alocalhoat%3A443%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=uk.dlaparat.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=uk.dlaparat.ir # ⚡ [By EbraSha]
 ss://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=%2F%3Fhost%3Alocalhoat%3A443%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=uk.dlaparat.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=uk.dlaparat.ir#%F0%9F%87%AC%F0%9F%87%A7%40FreakConfig
 ss://98aec3c3-d957-4363-9933-018e533c7c06@freedom.gov:443?path=%2F%3Fhost%3Alocalhoat%3A443%2F&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=uk.dlaparat.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=uk.dlaparat.ir#🔥Join+Telegram:@Farah_VPN🟣
@@ -401,6 +400,7 @@ ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WEh0ZHl3VVhUV1gwOGM0dThkdGt3S2NuQ09hY1d6ci9
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WFFNa3BiNUpJZnZyUXRhOU81dEVGY1dxeFBtbE1iamQ5V1VhTjdCVUlOYz06RWl4cXlhblFDUktBMjhEWW5qeEF4Q3ljbDJvSVROenY5eFl0N0ZMUUNxaz0%3D@193.176.190.162:1001#AutoAiVPN10923465
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WHNXeW13UmZRRGJtbmhWUkNsQXM4WnhWQWxidGdJNHB0NEROQ2FqQUZvOD06U2U0WUNKMmVEK3hqcDJDYjNNOU5VVXA2dHVzdTI0M24zTmVRZTIvdHdIOD0@37.32.40.49:3333?#%F0%9F%87%AE%F0%9F%87%B723671%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206WjdqcEhQaFhRdVkvQ0o3bmdway9GeEYrR3FCV2Q0S0IyRkxYV2JxWXBYST06c2xmUTNzVmprcVVyZ0ZQTk5mSkZtaXpCQ2ZOWGhiWVIreko4TEJlM243UT0@95.216.238.249:37337#🇫🇮 FI | 95.216.238.249
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191#4Jadi-0
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191?type=tcp # [ By EbraSha ] ⚡
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191?type=tcp # ⚡ [By EbraSha]
 ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206YmlROW91Sk5STnhBcTN4RVIyd2Z1MXBhR01Dc3pqc1hNSlFRc21acFBybz06M3JGQnEvUCsrSDZXWnpyKzRZRUsrQkNHUkIzVEZYZ1UyNmxpNjdXMHBsRT0@up.jibjob.mom:59191?type=tcp#lldalall
@@ -436,7 +436,7 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0NGZlNGI3ZC1jZDQ4LTQ1ZmMtYTAzNi02MGVhNDBlNGE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#🇩🇪DE%20%20ROSE—484
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0RkdFMXN5N3I4YUx6OGVzZGpYQ1hm@81.19.141.45:443#🇩🇪DE%20%20ROSE—676
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256 # ⚡ [By EbraSha]
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4FreeIran-5
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4Jadi-6
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U0dMTVo3WjgzZk4@uk.london1.vpntester.net:15256#4Mohsen-16
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#%F0%9F%87%B0%F0%9F%87%BFKZ-103.106.3.82-6967
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0U2FDSWF6bGd1bVlrTThGa1B6bG13anB5V0JEWkZCaw@103.106.3.82:443#🇰🇿 Казахстан
@@ -460,7 +460,6 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-295ms-Greenhost%20BV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Amsterdam-296ms-Greenhost%20BV
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#🇳🇱 1 - SS - The Netherlands : 8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#🇳🇱 4 - NL - SS/AEAD - 8080
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:8080#🇳🇱 Нидерланды 23
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.162:8080#%F0%9F%87%B3%F0%9F%87%B1NL-193.29.139.162-0825
@@ -498,3 +497,4 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.132
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.158.171.146:8080#%F0%9F%87%B1%F0%9F%87%B9%20Lithuania%20-%20NA%20%F0%9F%8C%8D%20SS-TCP-NA%204%E2%83%A3
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-0245
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#%F0%9F%87%B1%F0%9F%87%B9LT-45.87.175.154-0249
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@45.87.175.154:8080#🇱🇹 Литва 19

@@ -241,6 +241,7 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.123.224:22224?type=ws&security=tl
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.34.175:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN2530476
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.62.244:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN19897699
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.70.73.5:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN4526279
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.71.124.112:22224?type=ws&amp;security=tls&amp;path=%2Ftelegram-channel-vlessconfig&amp;sni=trojan.burgerip.co.uk#@VlessConfig
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.71.138.35:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=%2Ftelegram-channel-vlessconfig-ws#AutoAiVPN11851331
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.71.170.55:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14198069
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@3.71.171.209:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN5853363
@@ -497,4 +498,3 @@ ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.32.14:22224?type=ws&security=tls
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.35.33:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN12398898
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.37.164:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN8069394
 ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.38.121:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN14100077
-ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@51.44.44.155:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN11108557
