@@ -104,7 +104,8 @@ vless://00000000-0000-4000-8000-000000000000@185.103.252.249:48452?sni=guslef2w8
 vless://00000000-0000-4000-8000-000000000000@185.104.151.190:44333?sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&type=ws&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1212
 vless://00000000-0000-4000-8000-000000000000@207.154.235.65:486?sni=nisav2de2t0ai8p-hd0.misa.cc.cd&type=ws&host=nisav2de2t0ai8p-hd0.misa.cc.cd&path=/@Marisa_kristifp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-15522
 vless://00000000-0000-4000-8000-000000000000@209.38.196.1:486?sni=nisav2de2t0ai8p-hd0.misa.cc.cd&type=ws&host=nisav2de2t0ai8p-hd0.misa.cc.cd&path=/@Marisa_kristifp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-15523
-vless://00000000-0000-4000-8000-000000000000@209.38.241.0:12306?encryption=none&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=%2F%40Marisa_kristifp%3Dchrome&security=tls&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.5ms
+vless://00000000-0000-4000-8000-000000000000@209.38.241.0:12306?encryption=none&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws#@v2ray_configs_poolGermanyFrankfurt am Mainping:23.5ms
+vless://00000000-0000-4000-8000-000000000000@209.38.241.0:12306?encryption=none&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt
 vless://00000000-0000-4000-8000-000000000000@209.38.241.0:12306?encryption=none&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls&sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws#👉🆔@v2ray_configs_pool📡🇩🇪®️Germany©️Frankfurt am Main🅿️ping:23.5ms
 vless://00000000-0000-4000-8000-000000000000@209.38.241.0:12306?sni=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&type=ws&host=57vanjkxjo3kejbf4o2iul6z4o.gike.dpdns.org&path=/@Marisa_kristifp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-15668
 vless://00000000-0000-4000-8000-000000000000@45.145.41.222:48491?sni=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&type=ws&host=9cvs-zyn4r9-6gzdtuo0w.mikuru.ip-ddns.com&path=/@Marisa_kristifp=chrome&security=tls#%5BOpenRay%5D%20%F0%9F%87%A9%F0%9F%87%AA%20DE-15530
@@ -228,25 +229,21 @@ vless://015e00a0-05c0-4476-fbed-4d1adc69e054@zula.ir:2095?path=/@XpnTeam/@XpnTea
 vless://015e00a0-05c0-4476-fbed-4d1adc69e054@zula.ir:2095?path=/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam/@XpnTeam?ed=2048&security=none&encryption=none&host=test3.amin8263.ir&type=ws#🇩🇪+@mehrosaboran
 vless://0166cc9f-f7d0-4225-8dd8-3f2d512f8824@graygoat.fonixapp.org:2083?security=reality&encryption=none&pbk=Nt8aT_cKoHYHQWkoAjVgQG3SIsU70hd2nMnVq7pTDzw&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=clients2.google.com&sid=95edb96d#🇩🇪@FreakConfig
 vless://017f481c-9450-47ca-9b89-f15ce14add6f@65.21.107.227:443?mode=gun&security=reality&encryption=none&pbk=8Q3nODqTPyoYTjG7OxOu0BwyawF-_N6lHygfIu2QiCA&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=greenpepper.ir&sid=174e30c7#%F0%9F%87%A9%F0%9F%87%AA+%40IBv2ray%F0%9F%87%A9%F0%9F%87%AA
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=&encryption=none&type=ws#@Vip_Security join us - 24
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws # ⚡ [By EbraSha]
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9%20Psiphon--%40V2rayAlpha-3
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9%20Psiphon--%40V2rayAlpha-3vless://6202b230-417c-4d8e-b624-0f71afa9c75d@141.11.203.238:2096?path=%2F%3Fed%3D2560%26Telegram%40V2rayAlpha&security=tls&encryption=none&insecure=0&host=sni.jpmj.dev&fp=chrome&type=ws&allowInsecure=0&sni=sni.jpmj.dev#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9%20Psiphon--%40V2rayAlpha-4
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%E2%9D%A4%EF%B8%8F%E2%80%8D%F0%9F%A9%B9%20Psiphon--%40V2ray_Raha-3
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B724411%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#%F0%9F%87%AE%F0%9F%87%B724460%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FLonUp_M
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 25
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#@Vip_Security join us - 29
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=%2F&security=none&encryption=none&type=ws#🇮🇷 🍁Config_jo-32
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&amp;security=none&amp;encryption=none&amp;type=ws#@filembad
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&amp;security=none&amp;encryption=none&amp;type=ws#❤️‍🩹 Psiphon--@V2rayAlpha-3
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws # [ By EbraSha ]
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws # [ By EbraSha ] ⚡
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws # ⚡ [By EbraSha]
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws# Psiphon--@V2rayAlpha-3
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#4Jadi-5258
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#4Nika-5214
-vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#IR_68_@Surfboardv2ray
+vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#4Kian-5253
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#Join+Telegram:@Farah_VPN
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#❤️‍🩹
 vless://0195d3b8-8bfa-4c6e-9988-56396952a50a@finland.dehnavy.ir:39461?path=/&security=none&encryption=none&type=ws#❤️‍🩹 Psiphon--@V2rayAlpha-3
@@ -498,3 +495,6 @@ vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443/?typ
 vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sweetpurr.com&fp=chrome&pbk=jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4&type=tcp&headerType=none
 vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sweetpurr.com&fp=chrome&pbk=jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4&type=tcp&headerType=none # ⚡ [By EbraSha]
 vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sweetpurr.com&fp=chrome&pbk=jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4&type=tcp&headerType=none#4Mohsen-5084
+vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sweetpurr.com&fp=chrome&pbk=jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4&type=tcp&headerType=none#🇷🇺
+vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.sweetpurr.com&fp=chrome&pbk=jydcbn_c_lQzE7FxMCqmo4pzl9oYypd-EdpJzpdvfS4&type=tcp&headerType=none#🔥Join+Telegram:@Farah_VPN🟣
+vless://043c6983-e720-4e82-9568-5694cbf43753@balancer.russia.purr.bot:10443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=🔒
