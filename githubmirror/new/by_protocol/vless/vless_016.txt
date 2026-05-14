@@ -62,6 +62,7 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp # [ By EbraSha ] ⚡
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp # ⚡ [By EbraSha]
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%3E%3E%40oneclickvpnkeys%3A%3AGB
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20121783
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20184632
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20252644
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.196:8443?allowInsecure=1&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&type=tcp#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20492110
@@ -180,6 +181,7 @@ vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&en
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?security=tls&encryption=none&alpn=h2&headerType=none&type=tcp&sni=uk1.fromblancwithlove.com#🔥Join+Telegram:@Farah_VPN🟣
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1 # ⚡ [By EbraSha]
+vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20145243
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20543789
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20582595
 vless://394f6981-a782-4779-9a85-e6cf22935d93@152.233.28.198:8443?type=tcp&encryption=none&security=tls&sni=uk1.fromblancwithlove.com&alpn=h2&allowInsecure=1#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20679398
