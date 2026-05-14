@@ -97,6 +97,8 @@ vless://05020a61-3c0c-4ead-b256-7851ff905a75@sweet-combination.seotoolsforyou.co
 vless://050312e8-b555-44f0-93e5-e13ccf3845b9@invoker.fonixapp.org:12702?security=reality&encryption=none&pbk=9TRNqh5LFeGA6ZkHZyV5l6fB3lOTgk_HaAviYi5MOQY&headerType=none&fp=chrome&spx=/&type=tcp&flow=xtls-rprx-vision&sni=grammarly.com&sid=b19de72e#🇩🇪 DE | 152.53.133.226
 vless://050c7ac1-c948-446f-a6e6-8f2703a75494@199.232.175.238:443?security=tls&sni=pinimg.com&type=ws&host=open.ai&path=%2Fcontainers%2Fde&alpn=h3%2Ch2%2Chttp%2F1.1#🔒 VL-WS-TLS 🇬🇧 GB-199.232.175.238:443
 vless://051b4552-b516-485c-b4a0-fe18ab4ec7ee@185.117.0.185:651?mode=gun&security=reality&encryption=none&pbk=H2pJZSjdIazQ9BxTgd9li6XWWj2TaXPfXEZWrL5yS34&fp=firefox&type=grpc&sni=www.stackoverflow.com&sid=86ba053c74aaba8e#🇳🇱 11 - NL - VLESS/GRPC/REALITY/PBK/SID/UTLS - 651
+vless://05237e6d-88f3-4773-9a25-fe4547a09f22@158.160.206.199:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=ads.x5.ru&pbk=AvSwsAIp3t2sTvNDZwTPkbcanvu9wtvLyZ6FCzIM-Rk&sid=7ada97abaa&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23346
+vless://05237e6d-88f3-4773-9a25-fe4547a09f22@31.129.42.122:443?encryption=none&type=grpc&security=reality&mode=gun&fp=chrome&sni=api-maps.yandex.ru&pbk=dZwaeGvFS34wVBQOQ5q1c9xs8t1HHu2h9CdxnTGeuAw&sid=11a33a97aa&spx=%2F#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%E2%80%94%20%23345
 vless://0528474f-b049-471f-da0b-876669acf885@79.137.195.203:2052?security=reality&encryption=none&pbk=MBJWsayyX0ZwqkVH97aaeNX8ux_FuM2CkHLgPdXnRTs&fp=chrome&spx=/Copy-az-chahnnel-v2ray_configs_pools&type=grpc&serviceName=TELEGRAM_BYA_CHANEL_v2ray_configs_pools-v2ray_configs_pools-v2ray_configs_pools&sni=www.microsoft.com#²𝗝𝗼𝗶𝗻➠🇳🇱⭕᭄꯭@v2ray_configs_pools
 vless://0528c4ad-90c5-47f6-b424-b3c47042e703@slaveukbot.aigris.shop:47533/?type=grpc&encryption=none
 vless://0528c4ad-90c5-47f6-b424-b3c47042e703@slaveukbot.aigris.shop:47533/?type=grpc&encryption=none # ⚡ [By EbraSha]
@@ -496,5 +498,3 @@ vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.107.82:22224?type=ws&securit
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.112.221:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN7738550
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.112.222:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#@Vip_Security join us - 58
 vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.113.139:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN10976785
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.124.7:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN15753790
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.188.128.163:22224?type=ws&security=tls&path=%2Ftelegram-channel-vlessconfig&sni=trojan.burgerip.co.uk#AutoAiVPN21866

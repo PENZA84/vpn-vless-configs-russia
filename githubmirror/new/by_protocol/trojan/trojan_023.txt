@@ -1,4 +1,3 @@
-trojan://your_password@aws-se-stockholm-1.f1rocketnode.com:443?security=tls&sni=aws-se-stockholm-1.f1rocketnode.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-se-stockholm-1.f1rocketnode.com#%F0%9F%87%B8%F0%9F%87%AA_SE_237
 trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&allowInsecure=1&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflinea.com#%F0%9F%87%BA%F0%9F%87%B8_US_249
 trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflinea.com # ⚡ [By EbraSha]
 trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflinea.com#4FreeIran-5216
