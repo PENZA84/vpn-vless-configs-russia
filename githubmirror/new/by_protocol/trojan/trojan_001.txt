@@ -16,7 +16,6 @@ trojan://02948bde80594712b974368035f294dd@88.214.24.235:9443?security=reality&pb
 trojan://02975af0-c36b-11ed-8e27-1239d0255272@163.172.211.74:443?security=tls&sni=yahoo.com&type=tcp#%F0%9F%87%B3%F0%9F%87%B1%20Netherlands%20-%20Amsterdam%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BDtrojan://origin@content-provider12.cdn-delivery.akamaicd.com:443#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD------------------------------------------TG
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443/?type=tcp&security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-3844
-trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-2480
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-2490
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-2577
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@132.145.51.172:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-132.145.51.172-2881
@@ -48,7 +47,6 @@ trojan://0e17b420-48a2-11f0-8c4d-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://0e17b420-48a2-11f0-8c4d-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
 trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net
 trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net # ⚡ [By EbraSha]
-trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.219.173-4118
 trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.219.173-4128
 trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.219.173-4369
 trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net#%F0%9F%87%AB%F0%9F%87%B7FR-51.195.219.173-4673
@@ -79,7 +77,6 @@ trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.megavek793.workers.dev:2053?pa
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev:443?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.sobehab951.workers.dev#2 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev:2087?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.vvynm.workers.dev#4 🇩🇪 @V2ngFast
 trojan://1111@v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev:2083?path=/?ed=2560&security=tls&host=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev&fp=chrome&type=ws&sni=v2ngfast-v2ngfast-v2ngfast-v2ngfast.xekak98448.workers.dev#5 🇩🇪 @V2ngFast
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8560
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8572
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8806
 trojan://11ae0edd-2f63-4495-8683-037abbda9986@146.70.158.111:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir#%F0%9F%87%AB%F0%9F%87%B7FR-146.70.158.111-8886
@@ -193,7 +190,6 @@ trojan://255a0a50-3f10-11f0-b0d6-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://268f7997-fc81-4607-bae2-e61e8416ac3b@45.65.113.195:443?security=tls&headerType=none&type=tcp&sni=16-163-218-240.nhost.00cdn.com#رایگان | TROJAN | @VmessProtocol | DE🇩🇪 | 0️⃣2️⃣
 trojan://28a5128c-34f7-5539-9b0c-466f95dc6301@104.21.12.82:2087?security=tls&type=ws&sni=apihs.ysrdvukp.workeRS.deV&path=trojan-ws/?ed&host=apihs.ysrdvukp.workeRS.deV#AutoAiVPN3374473
 trojan://28c79056-ccfd-4cc1-93d4-c337cc782e65@89.221.224.94:80?security=tls&sni=is2-t.sshmax.xyz&type=tcp&headerType=none#%F0%9F%87%B7%F0%9F%87%BA%20Russia%205
-trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.219-4049
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.219-4059
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.219-4300
 trojan://28d98f761aca9d636f44db62544628eb@45.66.134.219:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.66.134.219-4604
@@ -261,7 +257,6 @@ trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@213.202.216.14:443?type=tcp&sni=do
 trojan://3f55ba27-fd83-4e83-bd88-e538abb621b3@gdct001.theyydsnode.top:52758?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD02%E3%80%90vip1%E3%80%91
 trojan://3f55ba27-fd83-4e83-bd88-e538abb621b3@gdct003.theyydsnode.top:24662?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD03%E3%80%90vip1%E3%80%91
 trojan://3f55ba27-fd83-4e83-bd88-e538abb621b3@shcm002.theyydsnode.top:42840?allowInsecure=1&peer=uk01.ckcloud.info&sni=uk01.ckcloud.info#JCBB_%20%E8%8B%B1%E5%9B%BD01%E3%80%90vip1%E3%80%91
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-2391
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-2401
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-2488
 trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls#%F0%9F%87%A8%F0%9F%87%BFCZ-92.118.149.85-2792
@@ -325,7 +320,6 @@ trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls # ⚡ [By EbraSha]
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.233.212.151-4210
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.233.212.151-4451
-trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-172.234.31.13-4200
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-192.157.56.142-4755
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#4FreeIran-3496
 trojan://4863e1b2-ec2f-4c71-b862-ce533028e57e@trus.moonfree.top:443?security=tls#4Mohsen-3313
@@ -340,12 +334,10 @@ trojan://4bf21530-4684-11f0-ad62-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://4c903e60-fa19-11ed-a488-1239d0255272@51.159.59.186:443?security=tls&sni=cdn.appsflyer.com&allowInsecure=1&type=tcp#%F0%9F%87%AB%F0%9F%87%B7%20France%20-%20Paris%20%F0%9F%8C%8D%20TR-TCP-TLS%204%E2%83%A3
 trojan://4cc790bf-3545-4892-944b-76bfe1e6e310@51.255.49.192:443?type=tcp&allowInsecure=1#%F0%9F%87%AB%F0%9F%87%B7_FR_%E6%B3%95%E5%9B%BD
 trojan://4db45bb4-dcca-4d37-a639-cb55213ee406@172.67.132.6:2096?type=grpc&sni=channel.v2bamdad.tech&allowInsecure=1&serviceName=lK1wclmJRbMxj4FxIzvwxUDoX#%F0%9F%87%BA%F0%9F%87%B8_US_%E7%BE%8E%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.61.209-2118
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.61.209-2128
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.61.209-2215
 trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls#%F0%9F%87%AB%F0%9F%87%B7FR-141.95.61.209-2519
 trojan://4f2f34cc-d2e9-4ca8-a687-68efe5ad5959@itjs.liangyuandiancloud.com:443#Relay_🇺🇸US-🇬🇧GB_181
-trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-212.24.103.3-2718
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-212.24.103.3-2728
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-212.24.103.3-2815
 trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls#%F0%9F%87%B1%F0%9F%87%B9LT-212.24.103.3-3119
@@ -356,6 +348,7 @@ trojan://52081af0-3f10-11f0-8054-1239d0255272@uk1.test3.net:443?security=tls&hea
 trojan://52081af0-3f10-11f0-8054-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#4Mohsen-3398
 trojan://52081af0-3f10-11f0-8054-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray❤️
 trojan://52081af0-3f10-11f0-8054-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk # ⚡ [By EbraSha]
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk#%40Hope_Net-join-us...
 trojan://52701795-3c3b-46b4-b7cf-c5978b3a4cf2@104.21.47.176:443/?type=tcp&security=tls&sni=hdfyc1.achaemenidempireofpersia.uk&allowInsecure=1 # ⚡ [By EbraSha]
@@ -498,3 +491,10 @@ trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?security=tls&sn
 trojan://7LlUkWYFvIDNyJ8oKhBuiw2c1m6d@216.238.102.126:25636/?type=tcp&security=tls&sni=t.me%2Foneclickvpnkeys#AutoAiVPN15031210
 trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&path=/ # ⚡ [By EbraSha]
 trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&path=/#%5BOpenRay%5D%20%F0%9F%87%B8%F0%9F%87%AA%20SE-1227
+trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&path=/#%F0%9F%87%BA%F0%9F%87%B8%20United%20States%2C%20Orem%20%7C%20%5BBL%5D
+trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20325333
+trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20424016
+trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20836693
+trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&path=/#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20892768
+trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&type=tcp&headerType=none&path=/&allow_insecure=0 # ⚡ [By EbraSha]
+trojan://7aXwJPnpAJ@150.241.65.18:50824?security=tls&sni=yespaintstudio.rav-kraski.ru&type=tcp&headerType=none&path=/&allow_insecure=0#%F0%9F%8F%B3%EF%B8%8F%20ShatakVPN%20343010

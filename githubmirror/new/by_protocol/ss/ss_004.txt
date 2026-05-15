@@ -1,3 +1,4 @@
+ss://219d848d-60f2-4321-8275-72b9b575b37e@104.25.223.156:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN10561472
 ss://219d848d-60f2-4321-8275-72b9b575b37e@104.25.36.120:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN3804592
 ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.153.111:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8603474
 ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.207.150:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8151779
@@ -497,4 +498,3 @@ ss://669be00c-67b4-4b87-b08f-311c45abced2@nl-3.atlanta-internet.ru:8443?security
 ss://669be00c-67b4-4b87-b08f-311c45abced2@pl.atlanta-internet.ru:8443?security=reality&encryption=none&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&headerType=&fp=safari&type=tcp&flow=xtls-rprx-vision&sni=pingless.com#AutoAiVPN13460591
 ss://669be00c-67b4-4b87-b08f-311c45abced2@ru.atlanta-internet.ru:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=pingless.com&fp=safari&security=reality&pbk=FscaEWx0paNBzL7GWHj4Fll7Xc-KxdhKgTthBAnByWI&sid=#AutoAiVPN13228245
 ss://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=static.rutube.ru&amp;fp=chrome&amp;pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&amp;sid=ffffffffff&amp;type=tcp&amp;headerType=none#I%201255%20%28%40Outline_Vpn%29%20free
-ss://669be00c-67b4-4b87-b08f-311c45abced2@third-legend.atlanta-internet.ru:443?security=reality&amp;encryption=none&amp;pbk=a_LbD81zTm6S8JtU98gY00xqsPOEucV4k0OEx0LOwgQ&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=static.rutube.ru&amp;sid=ffffffffff#I%201255%20%28%40Outline_Vpn%29%20free
