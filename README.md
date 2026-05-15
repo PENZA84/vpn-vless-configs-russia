@@ -177,63 +177,72 @@ proxy-providers:
 ---
 
 ## 📂 Project Structure
+
+```
 vpn-vless-configs-russia/
 ├── 📁 githubmirror/
-│ ├── 📁 clean/ # Все валидные конфигурации
-│ │ ├── vless.txt # 1247 VLESS configs
-│ │ ├── vmess.txt # 892 VMess configs
-│ │ ├── trojan.txt # 534 Trojan configs
-│ │ └── ss.txt # 312 Shadowsocks configs
-│ └── 📁 ru-sni/ # Только RU/CIS серверы
-│ ├── vless_ru.txt # 342 RU VLESS
-│ ├── vmess_ru.txt # 198 RU VMess
-│ └── ...
+│   ├── 📁 clean/                    # Все валидные конфигурации
+│   │   ├── vless.txt                # 1247 VLESS configs
+│   │   ├── vmess.txt                # 892 VMess configs
+│   │   ├── trojan.txt               # 534 Trojan configs
+│   │   └── ss.txt                   # 312 Shadowsocks configs
+│   ├── 📁 ru-sni/                   # Только RU/CIS серверы
+│   │   ├── vless_ru.txt             # 342 RU VLESS
+│   │   ├── vmess_ru.txt             # 198 RU VMess
+│   │   └── ...
+│   ├── 📁 new/                      # Новые конфигурации
+│   └── 📁 ru-sni-local/             # Локальные RU конфиги
 ├── 📁 vpn-files/
-│ ├── all_posts.txt # История постов
-│ └── post_YYYYMMDD_HHMMSS.txt # Последние посты
-├── 📁 subscriptions/ # Subscription форматы
-├── 📁 data/ # Служебные данные
-├── 📄 main.py # Основной оркестратор
-├── 📄 mirror.py # Сборщик конфигураций
-├── 📄 filter_ru_sni.py # Географический фильтр
-└── 📄 requirements.txt # Python зависимости
-
-text
+│   ├── all_posts.txt                # История постов
+│   └── post_YYYYMMDD_HHMMSS.txt     # Последние посты
+├── 📁 subscriptions/                # Subscription форматы
+├── 📁 data/                         # Служебные данные
+├── 📄 main.py                       # Основной оркестратор
+├── 📄 mirror.py                     # Сборщик конфигураций
+├── 📄 filter_ru_sni.py              # Географический фильтр
+└── 📄 requirements.txt              # Python зависимости
+```
 
 ---
 
 ## 🔄 Автоматизация
 
 ### GitHub Actions Workflow
-┌─────────────────────────────────────┐
-│ GitHub Actions (Every 15 min) │
-└──────────────┬──────────────────────┘
-│
-┌──────────────▼──────────────────────┐
-│ 1. 📥 Сбор конфигураций │
-│ - GitHub (50+ repos) │
-│ - Telegram (@vlesstrojan) │
-│ - RSS Aggregators │
-└──────────────┬──────────────────────┘
-│
-┌──────────────▼──────────────────────┐
-│ 2. 🔍 Фильтрация │
-│ - Дедупликация (MD5) │
-│ - Geo-фильтр (RU/EU/CIS) │
-│ - Валидация синтаксиса │
-└──────────────┬──────────────────────┘
-│
-┌──────────────▼──────────────────────┐
-│ 3. 💾 Сохранение │
-│ - clean/ (2985 configs) │
-│ - ru-sni/ (672 configs) │
-└──────────────┬──────────────────────┘
-│
-┌──────────────▼──────────────────────┐
-│ 4. 📤 Commit & Push │
-└─────────────────────────────────────┘
 
-text
+```
+┌─────────────────────────────────────┐
+│ GitHub Actions (Every 15 min)       │
+└──────────────┬──────────────────────┘
+               │
+       ┌───────▼────────┐
+       │ 1. 📥 Сбор     │
+       │ конфигураций   │
+       │ - GitHub       │
+       │   (50+ repos)  │
+       │ - Telegram     │
+       │ - RSS          │
+       └───────┬────────┘
+               │
+       ┌───────▼────────┐
+       │ 2. 🔍          │
+       │ Фильтрация     │
+       │ - Дедупликация │
+       │ - Geo-фильтр   │
+       │ - Валидация    │
+       └───────┬────────┘
+               │
+       ┌───────▼────────┐
+       │ 3. 💾          │
+       │ Сохранение     │
+       │ - clean/       │
+       │ - ru-sni/      │
+       └───────┬────────┘
+               │
+       ┌───────▼────────┐
+       │ 4. 📤 Commit   │
+       │    & Push      │
+       └────────────────┘
+```
 
 **Расписание:**
 - ⏰ Каждые 15 минут (автоматически)
