@@ -1,3 +1,10 @@
+trojan://c2c694f0-4213-11f0-8c78-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#4Mohsen-4294
+trojan://c2c694f0-4213-11f0-8c78-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#@hopev2ray💚
+trojan://c2c694f0-4213-11f0-8c78-1239d0255272@uk1.test3.net:443?security=tls&headerType=none&type=tcp#🔥Join+Telegram:@Farah_VPN🟣
+trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@kz.mjt000.com:443?type=tcp&allowInsecure=1#%F0%9F%87%AC%F0%9F%87%A7_GB_%E8%8B%B1%E5%9B%BD-%3E%F0%9F%87%B0%F0%9F%87%BF_KZ_%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6
+trojan://c2c76420-257f-492a-b20f-6560f3bfa78d@uk.mjt000.com:443?allowInsecure=0&peer=uk.mjt000.com&sni=uk.mjt000.com#%E8%8B%B1%E5%9B%BDUK-T
+trojan://c2de1269-17cb-41f6-ab97-f8c11a6f0f4f@158.178.206.197:8443/?type=tcp&security=tls&sni=joss.gpj1.web.id#%F0%9F%87%AB%F0%9F%87%B7FR-158.178.206.197-1207
+trojan://c33883045c@198.244.252.93:443?security=tls&sni=uk1.connecton.surf#%F0%9F%87%AC%F0%9F%87%A7GB-198.244.252.93-0169
 trojan://c33883045c@uk1.connecton.surf:443?security=tls&sni=uk1.connecton.surf#%F0%9F%87%AC%F0%9F%87%A7GB-198.244.252.93-0349
 trojan://c378f9c9-733c-4a28-af47-cfa8b063a7f6@nl2-full.privateip.net:443?security=tls#%F0%9F%87%B3%F0%9F%87%B1NL-134.209.90.171-5354
 trojan://c5691b8f-d833-41e4-9295-769f3edb4cd2@95.164.85.39:443/?type=tcp&security=tls&sni=customer-95-164-85-39.stark-industries.solutions&allowInsecure=1#%F0%9F%87%A9%F0%9F%87%B0DK%28AzadNet.t.me%29
@@ -299,12 +306,11 @@ trojan://humanity@8.6.112.0:443?allowInsecure=1&alpn=http%2F1.1&host=www.calmlou
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-458ms-Scaleway%20SAS
 trojan://humanity@8.6.112.0:443?path=/assignment&security=tls&host=www.multiplydose.com&type=ws&sni=www.multiplydose.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%B3%F0%9F%87%B1-Haarlem-473ms-Scaleway%20SAS
-trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.0-1769
-trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.0-1779
+trojan://humanity@8.6.112.0:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.0-1830
 trojan://humanity@8.6.112.6:443?alpn=http/1.1&fp=chrome&host=www.calmloud.com&path=/assignment&sni=www.calmloud.com&type=ws#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%B7
 trojan://humanity@8.6.112.6:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-473ms-SCALEWAY
-trojan://humanity@8.6.112.6:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.6-1815
+trojan://humanity@8.6.112.6:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%87%A6%F0%9F%87%B9AT-8.6.112.6-1850
 trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#https:%2F%2Ft.me%2FForceRunVPN-%F0%9F%87%AB%F0%9F%87%B7-Paris-518ms-SCALEWAY
 trojan://humanity@chatgpt.com:443?allowInsecure=1&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
 trojan://humanity@chatgpt.com:443?path=%2Fassignment&security=tls&host=www.gossipglove.com&fp=chrome&type=ws&sni=www.gossipglove.com#hamedp71%3A%3A%F0%9F%87%B3%F0%9F%87%B1
@@ -492,9 +498,3 @@ trojan://telegram-id-directvpn@13.36.201.87:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@13.36.205.108:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN12595154
 trojan://telegram-id-directvpn@13.36.206.216:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9414179
 trojan://telegram-id-directvpn@13.36.212.134:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN4900096
-trojan://telegram-id-directvpn@13.36.216.106:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9099120
-trojan://telegram-id-directvpn@13.36.217.61:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN1670591
-trojan://telegram-id-directvpn@13.36.220.128:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN1776773
-trojan://telegram-id-directvpn@13.36.220.207:22222?allowInsecure=0&sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@13.36.220.207:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#@Hope_Net-join-us-on-Telegram
-trojan://telegram-id-directvpn@13.36.222.54:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN9480591
