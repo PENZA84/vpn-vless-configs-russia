@@ -1,3 +1,4 @@
+ss://219d848d-60f2-4321-8275-72b9b575b37e@104.25.223.156:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN10561472
 ss://219d848d-60f2-4321-8275-72b9b575b37e@104.25.36.120:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN3804592
 ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.153.111:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8603474
 ss://219d848d-60f2-4321-8275-72b9b575b37e@162.159.207.150:443?security=tls&sni=qaa.zhuk.us.kg&type=ws&host=qaa.zhuk.us.kg&path=%2F%3Fed%3D2560#AutoAiVPN8151779
@@ -27,8 +28,6 @@ ss://2473ced1-b0e6-4d39-873b-acd41be42258@usa141.luckerusa.org:443?security=real
 ss://248403bf-77b4-4b1f-931a-9afbab88b854@filmnet.filimnet.com:80/?type=xhttp&path=%2Fcdn%2Fassets%3Fv%3D12&host=abriconf.global.ssl.fastly.net&mode=packet-up&security=none#👉🆔@v2ray_configs_pool📡🇫🇷®️France©️Strasbourg🅿️ping:15.93ms
 ss://24de3f3c-372b-4e2e-9e52-e8766a737871@cloudgetservice.mcloudservice.site:443?type=ws&encryption=none&security=tls&host=maxNEtviPAp-uk1.mAxnEtServicEs.ONLine&path=/linkws?ed=2560&sni=maxNEtviPAp-uk1.mAxnEtServicEs.ONLine#👉🆔@v2ray_configs_pool📡🇨🇦®️Canada©️Toronto🅿️ping:51.84ms`
 ss://2556a8ce-bd8b-4a86-91e7-b95f5e81144e@finland.aparat-movies-download.ir:42538?security=none&encryption=none&host=excoino.com&headerType=http&type=tcp#AutoAiVPN17099564
-ss://256c5f48-4908-4255-83d1-c86cb58f22b4@152.53.46.104:443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&security=reality&sid=9c2378562188c3cb&sni=austria.denditop.site&type=tcp # ⚡ [By EbraSha]
-ss://256c5f48-4908-4255-83d1-c86cb58f22b4@austria.denditop.site:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=wgoLhL4pRP0y6fu6He4qW_ElohCM_ANWJF3HEoUhNz4&sid=9c2378562188c3cb&sni=austria.denditop.site&spx=/ # ⚡ [By EbraSha]
 ss://25797faa-9fc4-43ac-8d32-371589267f8f@89.208.87.118:3443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&fp=chrome&security=reality&pbk=E0v1eCplgozcf1FVIzwel92v7p-SjQbTY3beXtLQk0o&sid=99c3cbbde80525aa#🇷🇺 [AS47764] LLC VK #28 (max.ru)
 ss://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@93.127.180.178:7033?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&amp;fp=firefox&amp;type=grpc&amp;serviceName=7034vless&amp;sni=telewebion.com&amp;sid=16b6cda7ab793526#%40V2RAY_VMESS_free
 ss://2652fbc5-e1b1-691f-c9c7-11ad83e828a6@93.127.180.178:7033?mode=gun&security=reality&encryption=none&pbk=iLik9C9our-5dRYuvFtrYOzd1NedgTsqUKew2ogLdgE&fp=firefox&type=grpc&serviceName=7034vless&sni=telewebion.com&sid=16b6cda7ab793526#AutoAiVPN14534912
@@ -498,3 +497,4 @@ ss://69d5763d-c66d-4958-b2d1-fc3ecabae32c@tr.sephost.de:8028?encryption=none&sec
 ss://69dc7469-4667-4e67-8dec-4c6d1dd06d13@finland.mrsudo.ir:2070?flow=&type=tcp&headerType=http&host=mrsudo.ir&path=/heu6FayCxmdp0097Cajz&security=none#AutoAiVPN10924101
 ss://69dc7469-4667-4e67-8dec-4c6d1dd06d13@france.mrsudo.ir:2080?flow=&type=tcp&headerType=http&host=mrsudo.ir&path=/heu6FayCxmdp0097Cajz&security=none#AutoAiVPN10924097
 ss://6a37460f-d1e7-413a-940f-ae7b875b1269@panel-germany-18.subcenter.net:1018?encryption=none&security=none&type=ws&path=%2Fwp-admin#AutoAiVPN19765622
+ss://6a619758-0c92-4837-8594-eebf60754d39@51.75.83.16:55260?encryption=none&amp;type=ws&amp;host=speedtest.net&amp;path=/DrkTeam_VPN&amp;security=none#DE1%F0%9F%87%A9%F0%9F%87%AA%20%5B@DarkTeam_VPN%5D
