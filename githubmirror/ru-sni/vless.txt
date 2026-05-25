@@ -1,3 +1,0 @@
-vless://231e88bb-3a39-4f26-848e-908f83070283@141.11.197.127:55269?encryption=none&security=reality&sni=vk.ru&fp=chrome&pbk=i1e3hqslC-n7XGp72HmDKU7ZuRk72pHbzujbNaYF-0s&sid=8f&allowInsecure=1&type=tcp&headerType=none#%F0%9F%87%B3%F0%9F%87%B1_NL_%E8%8D%B7%E5%85%B0-8
-vless://2a9ed01e-5455-44b4-a66a-76ee8165f0ac@77.73.232.61:19747?fp=chrome&pbk=ZO9dTeg1slvTXgVsBsaJ1BDvz_YUImTLJjbHs-GdVyM&security=tls&sid=2001&sni=yahoo.com#%F0%9F%87%B0%F0%9F%87%BF_KZ_%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6
-vless://a42c8b66-d0a7-4b49-9143-b98f1c84edba@144.31.82.47:18038?flow=xtls-rprx-vision&fp=chrome&pbk=UDLhjunZjP-5A6KBMeuWe3qp_FusLAshcQIcCF7EZh8&security=tls&sid=ce9f790791426d83&sni=www.microsoft.com#%F0%9F%87%AB%F0%9F%87%AE_FI_%E8%8A%AC%E5%85%B0
