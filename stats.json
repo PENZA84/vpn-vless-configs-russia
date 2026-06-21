@@ -1,19 +1,17 @@
 {
-  "timestamp": "2026-06-21T02:51:29.499442",
+  "timestamp": "2026-06-21T09:39:07.854697",
   "github_mirror_clean": {
-    "trojan": 2,
-    "vless": 59,
-    "vmess": 1
+    "trojan": 4,
+    "vless": 71
   },
   "ru_sni_filtered": {
     "trojan": 0,
-    "vless": 0,
-    "vmess": 0
+    "vless": 1
   },
   "totals": {
-    "clean": 62,
-    "ru_sni": 0,
-    "filter_rate": 0.0
+    "clean": 75,
+    "ru_sni": 1,
+    "filter_rate": 1.33
   },
   "new_cf_added": 50
 }
